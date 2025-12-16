@@ -1,2 +1,3 @@
-# netsuite-operational-kpi-automation
-Automated operational KPI generation from NetSuite-like ERP data using Python
+## NetSuite Operational KPI Automation
+
+Work in progress.
