@@ -38,8 +38,8 @@ atv_df = pd.DataFrame({
 })
 
 inventory_prices = inventory[["item_name", "base_price"]]
-monthly_revenue.to_csv("outputs/kpi_monthly_revenue.csv", index=False)
-revenue_by_customer.to_csv("outputs/kpi_revenue_by_customer.csv", index=False)
-revenue_by_item.to_csv("outputs/kpi_revenue_by_item.csv", index=False)
-atv_df.to_csv("outputs/kpi_average_transaction_value.csv", index=False)
-inventory_prices.to_csv("outputs/kpi_inventory_base_prices.csv", index=False)
+monthly_revenue.to_csv("outputs/kpis/kpi_monthly_revenue.csv", index=False)
+revenue_by_customer.to_csv("outputs/kpis/kpi_revenue_by_customer.csv", index=False)
+revenue_by_item.to_csv("outputs/kpis/kpi_revenue_by_item.csv", index=False)
+atv_df.to_csv("outputs/kpis/kpi_average_transaction_value.csv", index=False)
+inventory_prices.to_csv("outputs/kpis/kpi_inventory_base_prices.csv", index=False)
