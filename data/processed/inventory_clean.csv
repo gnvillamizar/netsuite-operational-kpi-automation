@@ -1,0 +1,7 @@
+item_id,item_name,item_type,base_price
+1,Enterprise Network Router,Inventory Item,289.0
+2,Enterprise Cloud Subscription,Service,174.0
+3,Enterprise Firewall Appliance,Non-Inventory Item,416.0
+4,Enterprise Wi-Fi Access Point,Inventory Item,163.0
+5,Managed Network Switch,Inventory Item,266.0
+6,Enterprise Server License,Non-Inventory Item,457.0

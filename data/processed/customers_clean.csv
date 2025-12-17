@@ -1,0 +1,328 @@
+customer_id,customer_name,customer_category,customer_status,sales_rep
+1,Brainsphere,Enterprise,On Hold,Abrahan Higford
+2,Meevee,Enterprise,Churned,Dag Syrett
+3,Jabbersphere,SMB,Prospect,Winn Gapp
+4,Talane,Enterprise,Active,Dorian Elsegood
+5,Ozu,Enterprise,Inactive,Quintana Goade
+6,Zoonder,Enterprise,Churned,Natal Skippon
+7,Feedspan,SMB,Prospect,Ricca Henriquet
+8,Gabvine,Retail,Suspended,Mellicent Dalligan
+9,Realbuzz,Retail,On Hold,Hamlin Fosberry
+10,Geba,SMB,Prospect,Ange Cranston
+11,Chatterpoint,SMB,Inactive,Zondra Sarl
+12,Brightbean,Enterprise,Prospect,Garrek Souten
+13,Realmix,Enterprise,Inactive,Cooper Franzelini
+14,Npath,Retail,On Hold,Ginelle Moreton
+15,Quimm,Enterprise,On Hold,Myrlene Petre
+16,Youfeed,SMB,Suspended,Caria Chardin
+17,Blogpad,Enterprise,Prospect,Camey Bengtsen
+18,Vinder,Enterprise,Suspended,Sadella Ramsdale
+19,Oloo,Retail,Prospect,Gerrilee Tigner
+20,Skaboo,SMB,Inactive,Cosmo Fairham
+21,Mita,Enterprise,Active,Bruce Ware
+22,Centimia,Retail,Churned,Lukas Greenhough
+23,Skidoo,Retail,Suspended,Delora McManamen
+24,Vipe,SMB,Active,Ram Matthewson
+25,Eadel,Retail,On Hold,Raychel Crookshank
+26,Dabvine,SMB,Active,Mella Bentz
+27,Ooba,SMB,Prospect,Ardenia Stawell
+28,Twitterbridge,Retail,On Hold,Hayyim Covotto
+29,Trunyx,SMB,On Hold,Hulda Thornewill
+30,Lajo,Retail,Churned,Krysta Rogerot
+31,Fivebridge,SMB,Prospect,Alvera Fleming
+32,Voomm,Retail,On Hold,Kara Witling
+33,InnoZ,Retail,On Hold,Jemmie Hallagan
+34,Wordpedia,Retail,Prospect,Faulkner Vischi
+35,Youspan,SMB,Prospect,Jaymee Ord
+36,Edgeblab,Enterprise,Inactive,Bobina Surridge
+37,Aimbu,SMB,Prospect,Dorothea Walaron
+38,Tagpad,Retail,Active,Arabella Dunbobbin
+39,Eare,Retail,On Hold,Alexandra Villa
+40,Skinder,Enterprise,Inactive,Aura Parcall
+41,Jabberstorm,Retail,Churned,Nat Northfield
+42,Blogtag,Retail,Churned,Austina Callander
+43,Zooveo,Enterprise,Prospect,Cyrille Aveyard
+44,Tazzy,SMB,Suspended,Sibella Feldstern
+45,Skajo,Retail,Churned,Berne Gawen
+46,Eidel,SMB,Prospect,Karly Ewols
+47,Brainverse,Enterprise,Suspended,Effie Bontein
+48,Twitterbeat,Retail,On Hold,Orson Hassey
+49,Photofeed,Enterprise,Inactive,Dario Weatherdon
+50,Linklinks,Retail,Churned,Stefania Bartocci
+51,Wikibox,SMB,Churned,Sally Dennes
+52,Tagfeed,SMB,Churned,Nanine Whitsey
+53,Brainlounge,Retail,Inactive,Pennie Hamner
+54,Feedfire,Retail,On Hold,Ogdon Dyche
+55,Flipbug,Enterprise,Churned,Jone Mc Gaughey
+56,Roombo,SMB,On Hold,Evonne Lappin
+57,Yodoo,Enterprise,Active,Fleming Pyne
+58,Yata,SMB,Churned,Jonell Holdron
+59,Shufflebeat,SMB,Prospect,Stefan Dagnall
+60,Centidel,Enterprise,Active,Lorri Whyte
+61,Eayo,Retail,Prospect,Catriona Crook
+62,Oodoo,Retail,Inactive,Coop Waren
+63,Gigabox,Enterprise,Churned,Karine Veevers
+64,Buzzdog,Retail,Inactive,Merv Tomkins
+65,Thoughtsphere,Retail,Inactive,Dee dee Serjeantson
+66,Mybuzz,SMB,Churned,Yanaton Wignall
+67,Kamba,Enterprise,Active,Brigitta Minnock
+68,Fivechat,Enterprise,On Hold,Vale Stennett
+69,Dabtype,Enterprise,Prospect,Faber Adcocks
+70,Oozz,Enterprise,Suspended,Sara Beltzner
+71,Zazio,Retail,On Hold,Johnath Annon
+72,Layo,Retail,On Hold,Arlin Grimmolby
+73,Livefish,SMB,Inactive,Anet Gent
+74,Demimbu,Retail,Active,Erda Immins
+75,Browsezoom,SMB,On Hold,Sarette MacLoughlin
+76,Twitterlist,SMB,Inactive,Crin Rozec
+77,Zava,SMB,Prospect,Yoko Royl
+78,Gabtype,Retail,Churned,Charity Dymick
+79,Trudeo,Retail,Inactive,Lazare Webbe
+80,Devbug,SMB,On Hold,Bella Towl
+81,Vitz,Retail,Churned,Florie Yarham
+82,Edgepulse,Retail,Suspended,Zachary Gorghetto
+83,Yodel,Enterprise,Suspended,Erwin Timcke
+84,Kwilith,Retail,Prospect,Caril Abbes
+85,Aimbo,Enterprise,Inactive,Karalee Callen
+86,Kanoodle,Retail,Inactive,Haze Burton
+87,Yotz,Enterprise,Suspended,Tiebold Melliard
+88,Skilith,Retail,Prospect,Yorke Macrae
+89,BlogXS,Retail,Churned,Spence Swanne
+90,Vimbo,SMB,Active,Windy Bolzen
+91,Divavu,SMB,Churned,Terri-jo Iannuzzelli
+92,Skynoodle,Enterprise,Churned,Martica Mendenhall
+93,Edgeclub,SMB,Prospect,Alfi Lamartine
+94,Riffpath,Retail,Prospect,Gusta Biskupek
+95,Thoughtmix,Retail,Inactive,Ryon Krugmann
+96,Innotype,Retail,On Hold,Brander O' Reagan
+97,Jayo,Retail,On Hold,Berke Klesl
+98,Shuffletag,SMB,Churned,Gorden Aylesbury
+99,Quimba,Retail,Prospect,Otto Abbatini
+100,Zoomdog,Retail,Active,Clio Tindley
+101,Devpoint,Retail,On Hold,Ellen Blumsom
+102,Kwimbee,SMB,Churned,Theresita Sparrowe
+103,Photobug,Enterprise,Suspended,Bernardo Ambrogiotti
+104,Eire,Enterprise,On Hold,Shayne Sandells
+105,Trilith,SMB,Suspended,Clarke Elstone
+106,Fliptune,Enterprise,Inactive,Joey Darke
+107,Skyvu,SMB,Suspended,Coop Do
+108,Photobean,Enterprise,Inactive,Chip Shildrick
+109,Edgeify,Enterprise,On Hold,Halette Sapwell
+110,Tavu,Enterprise,Churned,Prudi Klausewitz
+111,Jetpulse,Retail,Churned,Rhody Jirek
+112,Bluezoom,SMB,Prospect,Otto Martinet
+113,Myworks,SMB,Prospect,Claire Klimaszewski
+114,Eamia,Enterprise,Suspended,Tonia Stampfer
+115,Youbridge,Retail,Suspended,Hilliary Hardiker
+116,Vinte,SMB,Inactive,Modesta Kaesmakers
+117,Viva,SMB,Suspended,Norry Batterson
+118,Zoovu,Enterprise,Suspended,Kata Gabbett
+119,Wikido,Retail,Active,Erinna Worshall
+120,Demivee,Enterprise,Suspended,Joellen Redhole
+121,Voonte,Enterprise,Inactive,Tomkin Edds
+122,Oyonder,Retail,Suspended,Natal Meddows
+123,Podcat,SMB,On Hold,Kessiah McMurthy
+124,Twitterworks,SMB,On Hold,Lammond Braidwood
+125,Jaxworks,Retail,Active,Miller Tuberfield
+126,Zoomzone,SMB,Active,Mattie Polland
+127,Voolia,SMB,Inactive,Gillan Prime
+128,Twimm,Enterprise,Churned,Darryl Vasyutin
+129,Leexo,Enterprise,Inactive,Alejandro Chazier
+130,Devshare,Enterprise,Churned,Ingrid Temprell
+131,Yambee,Retail,On Hold,Essie Lamborne
+132,Skivee,Enterprise,On Hold,Darn Jinks
+133,Rhyzio,Enterprise,On Hold,Flint Ebbrell
+134,Twiyo,SMB,Active,Sibbie Rolling
+135,Flashdog,Enterprise,Active,Jeff Caselli
+136,Topicshots,Enterprise,Inactive,Clementius McClements
+137,Kare,Enterprise,On Hold,Muriel Dear
+138,Twitternation,Enterprise,Active,Austin Polkinhorn
+139,Jatri,Retail,Prospect,Nataniel Conibear
+140,Mydeo,Retail,Churned,Selene Lyford
+141,Lazz,SMB,Inactive,Wesley Nolda
+142,Bubblebox,Retail,On Hold,Sisely Lambal
+143,Yozio,Enterprise,On Hold,Shanta Hugonneau
+144,Kwideo,Enterprise,On Hold,Knox Aldrich
+145,Ntags,Enterprise,Active,Gertruda Prest
+146,Voolith,Retail,On Hold,Chrissy Potapczuk
+147,Blogspan,SMB,Active,Tadio Matveyev
+148,Mycat,SMB,Prospect,Saleem Figgs
+149,Camimbo,Enterprise,Inactive,Madella Toping
+150,Voonder,Enterprise,Suspended,Adan Garlick
+151,Feednation,SMB,Suspended,Wenona Sperry
+152,Jamia,SMB,On Hold,Raul Jacquemy
+153,Skinte,Enterprise,Suspended,Riannon Vellden
+154,Voonix,Enterprise,Active,Marla Stockle
+155,Digitube,SMB,Churned,Cornall Benkhe
+156,Jabbertype,Enterprise,Inactive,Gregorius Saines
+157,Bubbletube,SMB,Suspended,Georgie Waddup
+158,Youtags,Retail,Inactive,Krispin Yakobowitz
+159,Realpoint,Enterprise,Active,Geordie Danilyak
+160,Pixoboo,Enterprise,On Hold,Maisie Josling
+161,Flashspan,SMB,Churned,Madeleine Fritche
+162,Mynte,Retail,Active,Fawn Champkins
+163,Gevee,Enterprise,Suspended,Barnie Maffeo
+164,Voonyx,Retail,On Hold,Kendal Imlacke
+165,Omba,SMB,Inactive,Berrie de Bullion
+166,Dazzlesphere,Enterprise,Active,Davidson Denisovo
+167,Quire,SMB,Inactive,Jasper Beldum
+168,Rhybox,Enterprise,Prospect,Bron Ablett
+169,Riffwire,SMB,Churned,Aurora Brosel
+170,Skalith,Enterprise,Active,Lanny Classen
+171,Gabcube,Enterprise,Churned,Brittan Bonevant
+172,Eabox,SMB,Churned,Glori Barlee
+173,Katz,Enterprise,Churned,Rickard Skeldon
+174,Tagcat,SMB,Prospect,Killie Ouldred
+175,Zoozzy,Enterprise,Churned,Zared Fenlon
+176,Rhyloo,Retail,Inactive,Nisse Girke
+177,Brainbox,Retail,Inactive,Almire Sievewright
+178,JumpXS,Enterprise,Suspended,Nessie Stean
+179,Miboo,Retail,Suspended,Olin Studholme
+180,Rhycero,Enterprise,Active,Nichole Bunson
+181,Skimia,Enterprise,Inactive,Viviyan Coultass
+182,Buzzster,SMB,Suspended,Clarance Estcot
+183,Lazzy,Retail,Suspended,Elvira Center
+184,Twitterwire,Enterprise,On Hold,Layney Rofe
+185,Gigazoom,SMB,Churned,Hakim Gerretsen
+186,Trupe,Enterprise,Suspended,Deeanne Nicol
+187,Oyoloo,Enterprise,Inactive,Reggis MacRonald
+188,Dabshots,Retail,Suspended,Erin Nicklen
+189,Wordtune,Enterprise,Suspended,Christos Gutridge
+190,Skipfire,Retail,Active,Kaja Fidelus
+191,Shuffledrive,Enterprise,Prospect,Shelli Ledgeway
+192,Avavee,Retail,Prospect,Guenna Tripon
+193,Jabbercube,Retail,Inactive,Adan Marnane
+194,Dabfeed,Enterprise,Churned,Verla Sangster
+195,Browsetype,Retail,On Hold,Germain Dodson
+196,Snaptags,SMB,Active,Crysta Butterfill
+197,Photospace,Retail,Prospect,Cari Siflet
+198,Fanoodle,Retail,Churned,Lina Kirley
+199,Edgewire,SMB,Churned,Orion Harrington
+200,Babblestorm,Retail,Suspended,Natalya Garahan
+201,Topicstorm,SMB,Inactive,Garth Wealleans
+202,Skibox,Retail,Churned,Hollis Antognelli
+203,Thoughtstorm,SMB,Prospect,Deeyn Feavearyear
+204,Zoonoodle,Retail,Suspended,Giralda Balk
+205,Browsedrive,SMB,Prospect,Mikkel Jasper
+206,Gabspot,SMB,Prospect,Alene Cowing
+207,Cogibox,Enterprise,Prospect,Nicolette Lanfere
+208,Plambee,Retail,Suspended,Bogey Gaythorpe
+209,Mydo,SMB,Prospect,Bax Simion
+210,Trilia,Enterprise,Prospect,Karol Deetlefs
+211,Cogilith,Enterprise,Inactive,Rorke Arrigucci
+212,Avamba,Enterprise,Prospect,Helen-elizabeth Dorrington
+213,Kazio,Retail,On Hold,Serge Widdocks
+214,Oyoba,Enterprise,Inactive,Packston Nother
+215,Minyx,Enterprise,Suspended,Amble Stigell
+216,Einti,SMB,Inactive,Franni Warkup
+217,Babbleblab,Retail,Churned,Bernete Radsdale
+218,Yakidoo,Enterprise,Churned,Jacintha Campanelle
+219,Reallinks,SMB,Prospect,Minnie Grossier
+220,Twinder,SMB,Active,Dalli Creed
+221,Avaveo,Retail,Prospect,Chicky Langridge
+222,Brightdog,Retail,Suspended,Delly Mansford
+223,Devcast,SMB,Churned,Dane Lyes
+224,Livetube,Enterprise,Churned,Lorri Chisolm
+225,Yoveo,Enterprise,Active,Nat Whitecross
+226,Thoughtbeat,Enterprise,Active,Amye McConachie
+227,Yombu,Retail,Suspended,Ingunna Gillicuddy
+228,Browsebug,Retail,On Hold,Antonius Peacock
+229,Mudo,SMB,Active,Anna Macquire
+230,Cogidoo,Retail,Active,Pauly Tremelling
+231,LiveZ,Retail,Churned,Regine Lapham
+232,Twinte,Enterprise,Active,Chicky Cometto
+233,Meemm,Enterprise,Inactive,West Gilson
+234,Pixonyx,Enterprise,Active,Lissi Fadian
+235,Babbleset,Enterprise,Active,Roderigo Littrick
+236,Gigashots,Enterprise,Active,Vergil Perulli
+237,Agivu,Enterprise,Prospect,Thelma Leppington
+238,Buzzbean,Enterprise,On Hold,Sergei Kummerlowe
+239,Skiptube,Enterprise,On Hold,Heall Treppas
+240,Shufflester,SMB,Inactive,Myra Cuseck
+241,Topiczoom,Enterprise,Churned,Maddie Lambeth
+242,Tagchat,SMB,Active,Janina Topping
+243,Flipstorm,Retail,Active,Nonie Nassey
+244,Twimbo,Retail,Suspended,Margery Grummitt
+245,Zoombeat,Enterprise,Suspended,Norry Giddens
+246,Skipstorm,Enterprise,Inactive,Axe Whitington
+247,Devpulse,Enterprise,Active,Matti Skeggs
+248,Fadeo,Enterprise,Active,Staffard Wignall
+249,Ntag,SMB,Suspended,Janina Guiden
+250,Linkbuzz,Enterprise,Inactive,Stephannie Francesconi
+251,Meedoo,Enterprise,Suspended,Bobbie Keling
+252,Meeveo,Retail,Inactive,Alverta Lease
+253,Feedfish,Enterprise,Active,Benn Warder
+254,Latz,Retail,Prospect,Dickie Marklin
+255,Zoomlounge,SMB,Prospect,Atlanta Verzey
+256,Jaloo,Retail,Churned,Nissie Matushenko
+257,Meezzy,Enterprise,Prospect,Hamil Scatchard
+258,Aivee,Retail,On Hold,Katheryn Mourgue
+259,Wikizz,SMB,On Hold,Ellynn Durnall
+260,Dablist,SMB,Prospect,Rodi Pass
+261,Kwinu,SMB,Inactive,Craig Lead
+262,Livepath,Enterprise,Active,Alecia Turnbull
+263,Jaxbean,Enterprise,Suspended,Alyssa Kirvell
+264,Flipopia,SMB,Inactive,Lindy Philippet
+265,Roomm,Retail,Prospect,Gerhardine Hulburd
+266,Photojam,SMB,On Hold,Donia Rillatt
+267,Thoughtbridge,Enterprise,Prospect,Darbee Scurrer
+268,Izio,Retail,Inactive,Terri McMains
+269,Quatz,Retail,Suspended,Sashenka Schollick
+270,Meejo,Enterprise,On Hold,Brett Alanbrooke
+271,Wikivu,Enterprise,On Hold,Antonio Bethell
+272,Fatz,Enterprise,Prospect,Egon Mallard
+273,Oyoyo,Retail,Prospect,Sandi Othick
+274,Yacero,Retail,Prospect,Salem Spering
+275,Pixope,Retail,On Hold,Ricard Gabbett
+276,Dynabox,SMB,Prospect,Valeria Cromwell
+277,Yakitri,Enterprise,Active,Sisely Hyland
+278,Muxo,SMB,Suspended,Emlynn Granville
+279,Ailane,SMB,Suspended,Celinka Casewell
+280,Oyondu,Enterprise,Active,Kayne Dudson
+281,Yabox,Retail,Inactive,Brunhilda McKmurrie
+282,Topdrive,Enterprise,On Hold,Stearn Sandhill
+283,Yodo,SMB,Churned,Saunderson Bottomer
+284,Rooxo,Retail,Inactive,Yasmeen Bampkin
+285,Divape,SMB,Prospect,Taddeo Yaneev
+286,Meembee,Enterprise,Inactive,Hana MacPaden
+287,Teklist,Enterprise,Suspended,Germaine Dooman
+288,Topiclounge,Enterprise,Inactive,Grover McIlwain
+289,Yadel,SMB,Churned,Barclay Posen
+290,Gabtune,Retail,Inactive,Rosa Piatkowski
+291,Rhynyx,SMB,Suspended,Cathrine Briand
+292,Riffpedia,SMB,Prospect,Morly Henrie
+293,Flashpoint,Enterprise,Prospect,Natty Pardey
+294,Skyndu,Enterprise,Active,Jerrilee Tuckley
+295,Topicblab,Enterprise,Prospect,Grenville Gerran
+296,Jaxnation,SMB,Inactive,Brigid McMurty
+297,Quaxo,Enterprise,On Hold,Jarid Fassam
+298,Thoughtworks,SMB,Churned,Arri Bellson
+299,Flashset,Enterprise,Churned,Kelsey Wile
+300,Bubblemix,SMB,Inactive,Gus Druett
+301,Fiveclub,Enterprise,On Hold,Dennet Taggert
+302,Gigaclub,SMB,Inactive,Brennan Copnall
+303,Eimbee,SMB,Suspended,Barbabra Breen
+304,Tagtune,Enterprise,Suspended,Tomasine Verry
+305,Feedbug,Retail,Active,Christyna Stanfield
+306,Blogtags,Enterprise,Inactive,Boyd Sporle
+307,Plajo,Retail,Prospect,Malvin Penvarden
+308,Thoughtblab,Retail,Churned,Corilla Penhaleurack
+309,Photolist,Retail,Inactive,Tabbi Flear
+310,Tekfly,Enterprise,Suspended,Coleen Grimwad
+311,Blognation,Retail,Prospect,Burt Ellul
+312,Dynava,Retail,Inactive,Thatch Garfit
+313,Realcube,Retail,Prospect,Konstance Hartington
+314,Demizz,Retail,Prospect,Lurleen Welland
+315,Edgetag,SMB,Prospect,Korey Lethley
+316,Mymm,Enterprise,Inactive,Nert Gready
+317,Quinu,SMB,Suspended,Inna Ruffler
+318,Feedmix,Enterprise,On Hold,Hy Shuttell
+319,Wordware,Enterprise,Active,Deidre Rizzardini
+320,Skippad,SMB,Churned,Salomone Erbain
+321,Abatz,Enterprise,Active,Vladamir Astill
+322,Oba,SMB,On Hold,Desdemona Spens
+323,Dabjam,Retail,Suspended,Khalil Taplow
+324,Aibox,Enterprise,Suspended,Hatty South
+325,Janyx,Retail,Inactive,Olenka Abrahmer
+326,Jetwire,Retail,On Hold,Zola Rucklesse
+327,Eazzy,Enterprise,Prospect,Kathryn Wornham
