@@ -1,0 +1,7 @@
+ID interno;Nombre;Nombre para mostrar;Subtipo;Precio base
+1;Router;Enterprise Network Router;Inventory Item;289
+2;Cloud Subscription;Enterprise Cloud Subscription;Service;174
+3;Firewall;Enterprise Firewall Appliance;Non-Inventory Item;416
+4;Access Point;Enterprise Wi-Fi Access Point;Inventory Item;163
+5;Switch;Managed Network Switch;Inventory Item;266
+6;Server License;Enterprise Server License;Non-Inventory Item;457

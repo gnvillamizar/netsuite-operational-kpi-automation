@@ -1,0 +1,1001 @@
+date;Document Number;Name;Item;Sum of Quantity;Sum of Amount;Status;Location
+26/03/2025;DOC1;Yotz;Server License;14;6398;Paid In Full;California Office
+27/05/2025;DOC2;Pixoboo;Cloud Subscription;1;174;Paid In Full;New York Warehouse
+7/05/2025;DOC3;Mydeo;Access Point;9;1467;Paid In Full;New York Warehouse
+19/04/2025;DOC4;Kaymbo;Switch;15;3990;Open;New York Warehouse
+24/03/2025;DOC5;Rhyloo;Cloud Subscription;17;2958;Voided;Texas DC
+24/10/2025;DOC6;Fivechat;Access Point;5;815;Voided;California Office
+29/08/2025;DOC7;Buzzbean;Access Point;10;1630;Paid In Full;California Office
+20/06/2025;DOC8;Wikivu;Firewall;14;5824;Open;Remote
+11/06/2025;DOC9;Skynoodle;Router;17;4913;Paid In Full;California Office
+6/09/2025;DOC10;Zazio;Router;19;5491;Paid In Full;Texas DC
+3/03/2025;DOC11;Yata;Cloud Subscription;11;1914;Voided;New York Warehouse
+16/04/2025;DOC12;Demivee;Switch;14;3724;Open;Texas DC
+29/11/2025;DOC13;Wikizz;Firewall;14;5824;Paid In Full;Remote
+7/11/2025;DOC14;Eazzy;Router;9;2601;Paid In Full;New York Warehouse
+29/11/2025;DOC15;Riffpedia;Server License;9;4113;Paid In Full;California Office
+7/02/2025;DOC16;Brainlounge;Cloud Subscription;13;2262;Voided;Remote
+26/09/2025;DOC17;Vitz;Switch;8;2128;Paid In Full;Remote
+12/03/2025;DOC18;Edgepulse;Cloud Subscription;13;2262;Open;Remote
+11/07/2025;DOC19;Twitterbridge;Cloud Subscription;2;348;Paid In Full;New York Warehouse
+20/05/2025;DOC20;Realfire;Firewall;20;8320;Paid In Full;Remote
+14/05/2025;DOC21;Devpoint;Firewall;5;2080;Open;Remote
+1/09/2025;DOC22;Vitz;Access Point;12;1956;Voided;Texas DC
+28/10/2025;DOC23;Skilith;Router;18;5202;Open;Remote
+15/11/2025;DOC24;Quinu;Router;14;4046;Voided;Texas DC
+12/06/2025;DOC25;Twinte;Router;3;867;Paid In Full;Remote
+15/01/2025;DOC26;Zoomzone;Firewall;12;4992;Voided;California Office
+10/10/2025;DOC27;Meemm;Access Point;6;978;Voided;New York Warehouse
+3/11/2025;DOC28;Dabfeed;Router;14;4046;Paid In Full;Texas DC
+19/03/2025;DOC29;Livetube;Cloud Subscription;12;2088;Paid In Full;California Office
+3/11/2025;DOC30;Edgepulse;Access Point;5;815;Open;Remote
+28/09/2025;DOC31;Voomm;Switch;14;3724;Paid In Full;California Office
+18/07/2025;DOC32;Skyvu;Cloud Subscription;15;2610;Open;California Office
+12/04/2025;DOC33;Browsecat;Cloud Subscription;15;2610;Open;Texas DC
+25/02/2025;DOC34;Lajo;Firewall;5;2080;Voided;New York Warehouse
+6/05/2025;DOC35;Yacero;Switch;13;3458;Paid In Full;New York Warehouse
+19/11/2025;DOC36;Jabberstorm;Server License;1;457;Paid In Full;Remote
+2/10/2025;DOC37;Feedfire;Cloud Subscription;18;3132;Paid In Full;Texas DC
+29/05/2025;DOC38;Realpoint;Switch;11;2926;Paid In Full;New York Warehouse
+9/10/2025;DOC39;Skynoodle;Switch;15;3990;Paid In Full;Texas DC
+14/10/2025;DOC40;Skyndu;Switch;18;4788;Voided;Remote
+15/01/2025;DOC41;Wordpedia;Cloud Subscription;7;1218;Open;New York Warehouse
+17/09/2025;DOC42;Realcube;Server License;5;2285;Voided;California Office
+10/09/2025;DOC43;Babbleopia;Firewall;9;3744;Voided;Remote
+22/02/2025;DOC44;Jetpulse;Router;10;2890;Paid In Full;New York Warehouse
+19/07/2025;DOC45;Ainyx;Switch;18;4788;Paid In Full;Remote
+5/08/2025;DOC46;Tazz;Access Point;11;1793;Paid In Full;Remote
+25/02/2025;DOC47;Camido;Switch;7;1862;Voided;California Office
+9/03/2025;DOC48;Brainlounge;Server License;8;3656;Voided;New York Warehouse
+25/09/2025;DOC49;Katz;Cloud Subscription;9;1566;Open;Texas DC
+31/05/2025;DOC50;Topicshots;Firewall;4;1664;Open;New York Warehouse
+1/06/2025;DOC51;Eimbee;Cloud Subscription;2;348;Open;California Office
+13/10/2025;DOC52;Divavu;Router;10;2890;Open;Remote
+16/07/2025;DOC53;Dabvine;Server License;20;9140;Voided;Remote
+20/08/2025;DOC54;Devshare;Router;13;3757;Voided;Remote
+29/07/2025;DOC55;Edgetag;Switch;9;2394;Open;New York Warehouse
+16/07/2025;DOC56;Rooxo;Server License;9;4113;Paid In Full;California Office
+23/02/2025;DOC57;Avamba;Server License;10;4570;Voided;California Office
+24/06/2025;DOC58;Quire;Switch;5;1330;Paid In Full;California Office
+20/10/2025;DOC59;Flashpoint;Router;17;4913;Voided;Remote
+5/08/2025;DOC60;Babbleblab;Router;5;1445;Paid In Full;California Office
+15/09/2025;DOC61;Blogtag;Cloud Subscription;12;2088;Voided;Texas DC
+4/04/2025;DOC62;Oyoloo;Cloud Subscription;10;1740;Voided;Remote
+12/10/2025;DOC63;Trilia;Access Point;6;978;Open;New York Warehouse
+29/10/2025;DOC64;Agivu;Cloud Subscription;17;2958;Open;California Office
+22/08/2025;DOC65;Jaloo;Firewall;9;3744;Paid In Full;California Office
+13/06/2025;DOC66;Rhynyx;Firewall;12;4992;Open;Remote
+24/04/2025;DOC67;Skiptube;Server License;9;4113;Open;Texas DC
+2/06/2025;DOC68;Ntags;Switch;9;2394;Voided;Texas DC
+26/03/2025;DOC69;Browsecat;Router;6;1734;Voided;Remote
+15/06/2025;DOC70;Cogidoo;Cloud Subscription;19;3306;Voided;New York Warehouse
+24/02/2025;DOC71;Katz;Router;4;1156;Open;Remote
+26/05/2025;DOC72;Chatterbridge;Cloud Subscription;15;2610;Open;New York Warehouse
+26/05/2025;DOC73;Youspan;Switch;19;5054;Open;New York Warehouse
+30/07/2025;DOC74;Livetube;Access Point;7;1141;Voided;New York Warehouse
+28/06/2025;DOC75;Fatz;Firewall;4;1664;Paid In Full;Texas DC
+26/07/2025;DOC76;Oyoyo;Router;20;5780;Paid In Full;Texas DC
+16/08/2025;DOC77;Skalith;Cloud Subscription;20;3480;Voided;Texas DC
+30/06/2025;DOC78;Devbug;Firewall;18;7488;Paid In Full;New York Warehouse
+16/04/2025;DOC79;Katz;Access Point;13;2119;Paid In Full;Texas DC
+6/02/2025;DOC80;Realpoint;Cloud Subscription;3;522;Voided;New York Warehouse
+2/04/2025;DOC81;Mydo;Firewall;13;5408;Voided;California Office
+24/06/2025;DOC82;Oodoo;Cloud Subscription;1;174;Open;Texas DC
+7/03/2025;DOC83;Zava;Router;13;3757;Open;New York Warehouse
+3/09/2025;DOC84;Camimbo;Switch;14;3724;Voided;California Office
+13/12/2025;DOC85;Buzzster;Access Point;14;2282;Open;California Office
+7/08/2025;DOC86;Zoovu;Firewall;6;2496;Paid In Full;Texas DC
+13/07/2025;DOC87;Photobean;Router;1;289;Voided;Remote
+21/06/2025;DOC88;Cogilith;Access Point;3;489;Voided;New York Warehouse
+27/03/2025;DOC89;Dablist;Switch;14;3724;Paid In Full;New York Warehouse
+27/01/2025;DOC90;Rhynyx;Router;6;1734;Voided;California Office
+12/02/2025;DOC91;Snaptags;Router;17;4913;Paid In Full;Remote
+23/05/2025;DOC92;Browsebug;Switch;10;2660;Paid In Full;New York Warehouse
+7/12/2025;DOC93;Ntags;Access Point;10;1630;Voided;New York Warehouse
+21/04/2025;DOC94;Thoughtworks;Firewall;16;6656;Voided;California Office
+15/02/2025;DOC95;Meezzy;Cloud Subscription;19;3306;Voided;California Office
+25/06/2025;DOC96;Divavu;Switch;3;798;Open;Remote
+24/11/2025;DOC97;Abatz;Router;14;4046;Voided;Texas DC
+31/10/2025;DOC98;Tagpad;Switch;14;3724;Voided;Texas DC
+9/06/2025;DOC99;Tagtune;Access Point;17;2771;Paid In Full;California Office
+9/01/2025;DOC100;Yozio;Firewall;2;832;Paid In Full;New York Warehouse
+16/11/2025;DOC101;Skinte;Access Point;17;2771;Open;Remote
+3/01/2025;DOC102;Shuffletag;Server License;4;1828;Voided;New York Warehouse
+6/12/2025;DOC103;Twinte;Router;2;578;Paid In Full;Remote
+18/06/2025;DOC104;Dabjam;Cloud Subscription;19;3306;Voided;California Office
+6/01/2025;DOC105;Leexo;Firewall;4;1664;Voided;California Office
+3/03/2025;DOC106;Yambee;Router;17;4913;Paid In Full;Remote
+25/04/2025;DOC107;Trilia;Server License;7;3199;Paid In Full;New York Warehouse
+30/11/2025;DOC108;Realpoint;Router;9;2601;Open;Remote
+7/10/2025;DOC109;Meevee;Access Point;8;1304;Open;Texas DC
+7/08/2025;DOC110;Wordware;Cloud Subscription;9;1566;Paid In Full;New York Warehouse
+8/09/2025;DOC111;Flashset;Access Point;18;2934;Paid In Full;California Office
+21/03/2025;DOC112;Flashpoint;Access Point;11;1793;Open;Texas DC
+24/08/2025;DOC113;Yabox;Access Point;5;815;Voided;Texas DC
+23/05/2025;DOC114;Voonix;Access Point;8;1304;Open;California Office
+7/08/2025;DOC115;Skaboo;Switch;4;1064;Open;Texas DC
+22/04/2025;DOC116;Babbleblab;Access Point;11;1793;Paid In Full;New York Warehouse
+18/05/2025;DOC117;Rooxo;Access Point;20;3260;Paid In Full;New York Warehouse
+21/02/2025;DOC118;Abatz;Cloud Subscription;5;870;Paid In Full;Texas DC
+7/03/2025;DOC119;Eadel;Server License;18;8226;Open;Texas DC
+1/07/2025;DOC120;Gigaclub;Firewall;16;6656;Open;California Office
+2/09/2025;DOC121;Demizz;Server License;19;8683;Paid In Full;Texas DC
+29/10/2025;DOC122;Ntag;Access Point;13;2119;Voided;New York Warehouse
+25/02/2025;DOC123;Vinte;Router;2;578;Open;New York Warehouse
+11/01/2025;DOC124;Buzzbean;Switch;16;4256;Open;Texas DC
+16/10/2025;DOC125;Ozu;Switch;12;3192;Voided;Remote
+28/11/2025;DOC126;Skinte;Switch;2;532;Voided;New York Warehouse
+12/07/2025;DOC127;Brainlounge;Firewall;11;4576;Voided;Remote
+11/02/2025;DOC128;Yozio;Server License;11;5027;Voided;New York Warehouse
+30/10/2025;DOC129;Shufflebeat;Router;9;2601;Open;Remote
+9/03/2025;DOC130;Chatterbridge;Switch;19;5054;Voided;Texas DC
+24/11/2025;DOC131;Dynazzy;Server License;5;2285;Open;New York Warehouse
+29/10/2025;DOC132;Blognation;Switch;18;4788;Paid In Full;California Office
+23/03/2025;DOC133;Zoonoodle;Firewall;12;4992;Voided;New York Warehouse
+6/03/2025;DOC134;Photobug;Access Point;12;1956;Paid In Full;Remote
+26/10/2025;DOC135;Npath;Firewall;18;7488;Voided;New York Warehouse
+19/10/2025;DOC136;Talane;Switch;1;266;Open;Texas DC
+19/01/2025;DOC137;Feedbug;Switch;16;4256;Voided;California Office
+24/03/2025;DOC138;Dablist;Router;7;2023;Paid In Full;Remote
+7/01/2025;DOC139;Jaloo;Router;8;2312;Open;New York Warehouse
+11/10/2025;DOC140;Quatz;Cloud Subscription;18;3132;Paid In Full;California Office
+13/08/2025;DOC141;Janyx;Server License;8;3656;Paid In Full;California Office
+23/07/2025;DOC142;Blogspan;Cloud Subscription;13;2262;Voided;Texas DC
+1/07/2025;DOC143;Jayo;Switch;18;4788;Paid In Full;New York Warehouse
+26/03/2025;DOC144;Kamba;Router;6;1734;Voided;Texas DC
+7/01/2025;DOC145;Pixope;Cloud Subscription;2;348;Paid In Full;Remote
+30/04/2025;DOC146;Kazio;Cloud Subscription;8;1392;Open;Remote
+6/08/2025;DOC147;Dabvine;Server License;3;1371;Paid In Full;California Office
+17/06/2025;DOC148;Realbuzz;Access Point;20;3260;Voided;Texas DC
+4/06/2025;DOC149;Lajo;Cloud Subscription;3;522;Voided;New York Warehouse
+26/07/2025;DOC150;Quinu;Firewall;4;1664;Paid In Full;California Office
+29/04/2025;DOC151;LiveZ;Switch;1;266;Open;Remote
+12/05/2025;DOC152;Shufflebeat;Router;2;578;Paid In Full;New York Warehouse
+26/08/2025;DOC153;Bubblemix;Access Point;5;815;Open;New York Warehouse
+23/09/2025;DOC154;Skibox;Access Point;20;3260;Voided;New York Warehouse
+5/05/2025;DOC155;Fliptune;Firewall;15;6240;Paid In Full;Texas DC
+2/05/2025;DOC156;Layo;Firewall;3;1248;Open;Remote
+3/09/2025;DOC157;Yodel;Switch;20;5320;Open;New York Warehouse
+17/06/2025;DOC158;Mybuzz;Switch;1;266;Open;California Office
+24/05/2025;DOC159;Flashset;Firewall;7;2912;Voided;Texas DC
+20/04/2025;DOC160;Browsezoom;Access Point;7;1141;Open;Texas DC
+14/07/2025;DOC161;Abatz;Cloud Subscription;20;3480;Voided;Texas DC
+31/03/2025;DOC162;Eare;Switch;18;4788;Open;Texas DC
+25/07/2025;DOC163;Trilia;Access Point;13;2119;Open;New York Warehouse
+10/03/2025;DOC164;Tagtune;Router;20;5780;Voided;New York Warehouse
+9/11/2025;DOC165;Babblestorm;Switch;11;2926;Paid In Full;Texas DC
+12/12/2025;DOC166;Kwimbee;Server License;7;3199;Open;Texas DC
+8/05/2025;DOC167;Rhyzio;Switch;20;5320;Voided;Texas DC
+9/10/2025;DOC168;Eazzy;Access Point;6;978;Paid In Full;New York Warehouse
+22/11/2025;DOC169;Brainverse;Firewall;15;6240;Open;Remote
+31/01/2025;DOC170;Babbleset;Router;18;5202;Voided;California Office
+4/09/2025;DOC171;Gigashots;Access Point;13;2119;Voided;New York Warehouse
+12/05/2025;DOC172;Jayo;Firewall;5;2080;Open;Remote
+30/09/2025;DOC173;Twitternation;Firewall;8;3328;Paid In Full;New York Warehouse
+24/09/2025;DOC174;Photojam;Server License;8;3656;Voided;Remote
+4/04/2025;DOC175;Zoombeat;Firewall;13;5408;Open;Remote
+23/03/2025;DOC176;Devpoint;Server License;6;2742;Open;Texas DC
+6/11/2025;DOC177;Twitterworks;Cloud Subscription;8;1392;Open;California Office
+26/11/2025;DOC178;Gigazoom;Cloud Subscription;7;1218;Open;California Office
+25/03/2025;DOC179;Fanoodle;Cloud Subscription;2;348;Open;Texas DC
+8/01/2025;DOC180;Mynte;Switch;11;2926;Open;Texas DC
+2/01/2025;DOC181;Einti;Cloud Subscription;8;1392;Voided;Remote
+24/03/2025;DOC182;Brainlounge;Switch;9;2394;Voided;Remote
+14/01/2025;DOC183;Trunyx;Access Point;5;815;Voided;Texas DC
+12/04/2025;DOC184;Tagfeed;Firewall;5;2080;Paid In Full;Remote
+21/03/2025;DOC185;Livetube;Access Point;11;1793;Paid In Full;New York Warehouse
+24/11/2025;DOC186;Twitterbeat;Router;6;1734;Paid In Full;California Office
+28/04/2025;DOC187;Dabtype;Server License;19;8683;Open;New York Warehouse
+29/11/2025;DOC188;Brainverse;Cloud Subscription;7;1218;Paid In Full;California Office
+23/05/2025;DOC189;Topiczoom;Access Point;4;652;Voided;New York Warehouse
+25/10/2025;DOC190;Myworks;Access Point;8;1304;Paid In Full;Remote
+29/08/2025;DOC191;Skinder;Access Point;11;1793;Voided;New York Warehouse
+25/07/2025;DOC192;Skivee;Access Point;20;3260;Open;Remote
+17/02/2025;DOC193;Shufflester;Router;14;4046;Voided;California Office
+9/12/2025;DOC194;Flashdog;Server License;15;6855;Open;New York Warehouse
+6/04/2025;DOC195;Buzzbean;Access Point;12;1956;Open;Remote
+15/12/2025;DOC196;Voonder;Server License;2;914;Paid In Full;Remote
+7/08/2025;DOC197;Flashset;Router;9;2601;Voided;Texas DC
+22/05/2025;DOC198;Eire;Cloud Subscription;2;348;Paid In Full;New York Warehouse
+27/07/2025;DOC199;Thoughtstorm;Firewall;7;2912;Paid In Full;Remote
+19/05/2025;DOC200;Jetwire;Access Point;3;489;Paid In Full;New York Warehouse
+16/04/2025;DOC201;Camido;Access Point;1;163;Paid In Full;Texas DC
+15/11/2025;DOC202;Youspan;Cloud Subscription;6;1044;Open;California Office
+12/10/2025;DOC203;Feedspan;Router;14;4046;Open;New York Warehouse
+21/08/2025;DOC204;Photobug;Firewall;3;1248;Open;Texas DC
+19/03/2025;DOC205;Talane;Router;11;3179;Paid In Full;Remote
+24/07/2025;DOC206;Flashdog;Access Point;5;815;Open;California Office
+17/07/2025;DOC207;Zazio;Cloud Subscription;19;3306;Paid In Full;New York Warehouse
+6/12/2025;DOC208;Skinder;Switch;1;266;Paid In Full;Remote
+18/02/2025;DOC209;Yodel;Access Point;17;2771;Paid In Full;Texas DC
+11/11/2025;DOC210;Browseblab;Cloud Subscription;11;1914;Paid In Full;Texas DC
+24/02/2025;DOC211;Meembee;Cloud Subscription;17;2958;Voided;New York Warehouse
+23/02/2025;DOC212;Twimbo;Access Point;18;2934;Voided;Remote
+15/05/2025;DOC213;Dabshots;Access Point;2;326;Paid In Full;Remote
+16/08/2025;DOC214;Yakidoo;Access Point;3;489;Voided;Remote
+5/06/2025;DOC215;Wordtune;Firewall;10;4160;Paid In Full;Remote
+9/07/2025;DOC216;Rhycero;Server License;12;5484;Paid In Full;California Office
+3/04/2025;DOC217;Camido;Switch;3;798;Open;Remote
+17/06/2025;DOC218;Fadeo;Access Point;2;326;Open;New York Warehouse
+30/08/2025;DOC219;Realfire;Firewall;11;4576;Paid In Full;California Office
+21/03/2025;DOC220;Meembee;Server License;16;7312;Paid In Full;Texas DC
+29/07/2025;DOC221;Twitterwire;Firewall;7;2912;Open;Remote
+21/11/2025;DOC222;Eidel;Server License;2;914;Paid In Full;Texas DC
+29/03/2025;DOC223;Bluezoom;Router;11;3179;Voided;Remote
+10/06/2025;DOC224;Demivee;Cloud Subscription;10;1740;Paid In Full;California Office
+19/08/2025;DOC225;Gigashots;Switch;7;1862;Paid In Full;Texas DC
+22/08/2025;DOC226;Kazio;Switch;4;1064;Open;Remote
+8/04/2025;DOC227;Realcube;Access Point;8;1304;Voided;Remote
+12/09/2025;DOC228;Kare;Switch;12;3192;Paid In Full;Texas DC
+29/11/2025;DOC229;Skinder;Router;15;4335;Paid In Full;Remote
+1/12/2025;DOC230;Vimbo;Router;14;4046;Voided;Texas DC
+18/07/2025;DOC231;Edgewire;Cloud Subscription;13;2262;Open;Texas DC
+25/01/2025;DOC232;Lazz;Cloud Subscription;9;1566;Paid In Full;Texas DC
+14/05/2025;DOC233;Riffpedia;Access Point;9;1467;Voided;New York Warehouse
+13/03/2025;DOC234;Kanoodle;Cloud Subscription;5;870;Paid In Full;Texas DC
+5/05/2025;DOC235;Gevee;Firewall;19;7904;Paid In Full;California Office
+1/06/2025;DOC236;Voomm;Firewall;2;832;Voided;Texas DC
+7/11/2025;DOC237;Brightbean;Cloud Subscription;20;3480;Paid In Full;California Office
+16/04/2025;DOC238;Flashpoint;Access Point;14;2282;Voided;Remote
+25/04/2025;DOC239;Livepath;Cloud Subscription;8;1392;Paid In Full;Remote
+28/03/2025;DOC240;Flashdog;Cloud Subscription;10;1740;Voided;Texas DC
+15/02/2025;DOC241;Jabbercube;Server License;9;4113;Paid In Full;New York Warehouse
+17/10/2025;DOC242;Edgetag;Switch;17;4522;Voided;Remote
+26/04/2025;DOC243;Shufflester;Switch;13;3458;Paid In Full;Texas DC
+9/01/2025;DOC244;Quinu;Switch;18;4788;Paid In Full;Texas DC
+19/05/2025;DOC245;Youtags;Switch;20;5320;Paid In Full;New York Warehouse
+24/11/2025;DOC246;Yombu;Cloud Subscription;18;3132;Voided;Remote
+12/04/2025;DOC247;Skyvu;Cloud Subscription;13;2262;Paid In Full;Remote
+4/01/2025;DOC248;Lazzy;Server License;20;9140;Open;Remote
+8/06/2025;DOC249;Flashpoint;Router;16;4624;Paid In Full;Texas DC
+20/09/2025;DOC250;Skivee;Switch;16;4256;Open;Texas DC
+11/06/2025;DOC251;Thoughtstorm;Server License;12;5484;Voided;California Office
+26/09/2025;DOC252;Vipe;Router;12;3468;Paid In Full;Texas DC
+6/03/2025;DOC253;Dablist;Server License;19;8683;Open;Remote
+20/09/2025;DOC254;Flipbug;Cloud Subscription;7;1218;Paid In Full;California Office
+3/11/2025;DOC255;Yakitri;Router;5;1445;Voided;California Office
+3/02/2025;DOC256;Aivee;Cloud Subscription;9;1566;Open;Remote
+23/07/2025;DOC257;Wikibox;Firewall;11;4576;Voided;Remote
+18/07/2025;DOC258;Topiclounge;Firewall;1;416;Open;Remote
+15/11/2025;DOC259;Livepath;Cloud Subscription;14;2436;Open;New York Warehouse
+10/11/2025;DOC260;Shuffledrive;Firewall;1;416;Voided;New York Warehouse
+6/06/2025;DOC261;Riffpath;Router;11;3179;Voided;Texas DC
+21/02/2025;DOC262;Dabjam;Access Point;10;1630;Voided;California Office
+31/01/2025;DOC263;Rhycero;Cloud Subscription;8;1392;Open;New York Warehouse
+23/08/2025;DOC264;Yodel;Cloud Subscription;12;2088;Voided;Remote
+26/10/2025;DOC265;Riffpedia;Switch;9;2394;Voided;California Office
+23/09/2025;DOC266;Fiveclub;Switch;8;2128;Paid In Full;Remote
+20/11/2025;DOC267;Flipopia;Server License;3;1371;Paid In Full;California Office
+4/10/2025;DOC268;Twitterbridge;Cloud Subscription;12;2088;Paid In Full;California Office
+31/10/2025;DOC269;Thoughtblab;Firewall;9;3744;Voided;New York Warehouse
+19/10/2025;DOC270;Skynoodle;Switch;8;2128;Paid In Full;Remote
+24/06/2025;DOC271;Fivechat;Access Point;20;3260;Voided;Remote
+19/08/2025;DOC272;Miboo;Router;18;5202;Open;Texas DC
+8/07/2025;DOC273;Twitternation;Firewall;13;5408;Voided;California Office
+18/06/2025;DOC274;Meevee;Cloud Subscription;8;1392;Voided;Texas DC
+3/01/2025;DOC275;Eire;Firewall;14;5824;Open;California Office
+27/03/2025;DOC276;Wordtune;Server License;14;6398;Voided;California Office
+29/11/2025;DOC277;Riffpath;Router;7;2023;Voided;Remote
+2/11/2025;DOC278;Skimia;Access Point;7;1141;Paid In Full;New York Warehouse
+26/01/2025;DOC279;Voonte;Router;8;2312;Voided;Texas DC
+3/09/2025;DOC280;Tagpad;Firewall;15;6240;Open;Texas DC
+17/10/2025;DOC281;Realmix;Access Point;2;326;Paid In Full;Texas DC
+19/02/2025;DOC282;Abatz;Access Point;17;2771;Open;California Office
+1/03/2025;DOC283;Devcast;Cloud Subscription;12;2088;Open;New York Warehouse
+1/12/2025;DOC284;Quire;Access Point;17;2771;Paid In Full;New York Warehouse
+2/02/2025;DOC285;Twinte;Cloud Subscription;5;870;Voided;New York Warehouse
+18/11/2025;DOC286;Oyonder;Router;20;5780;Open;New York Warehouse
+7/07/2025;DOC287;Skipstorm;Access Point;7;1141;Voided;Remote
+12/07/2025;DOC288;Topicshots;Firewall;20;8320;Voided;New York Warehouse
+20/07/2025;DOC289;Twimm;Firewall;7;2912;Open;California Office
+6/03/2025;DOC290;Centimia;Cloud Subscription;9;1566;Open;New York Warehouse
+12/11/2025;DOC291;Minyx;Switch;8;2128;Open;Remote
+13/12/2025;DOC292;InnoZ;Firewall;1;416;Paid In Full;California Office
+5/09/2025;DOC293;Oloo;Router;13;3757;Open;New York Warehouse
+21/08/2025;DOC294;Zoomdog;Firewall;9;3744;Paid In Full;Texas DC
+2/03/2025;DOC295;Jaxnation;Access Point;13;2119;Voided;California Office
+26/08/2025;DOC296;Ailane;Firewall;6;2496;Voided;Remote
+10/06/2025;DOC297;Twitterwire;Router;1;289;Paid In Full;California Office
+12/05/2025;DOC298;Quatz;Cloud Subscription;11;1914;Paid In Full;California Office
+8/04/2025;DOC299;Tazzy;Server License;14;6398;Paid In Full;Remote
+10/08/2025;DOC300;Jetwire;Server License;7;3199;Paid In Full;Texas DC
+25/09/2025;DOC301;Zoomdog;Server License;9;4113;Voided;California Office
+8/09/2025;DOC302;Wordtune;Server License;19;8683;Open;Remote
+9/06/2025;DOC303;Photobug;Router;18;5202;Open;Texas DC
+21/10/2025;DOC304;Quimm;Server License;4;1828;Voided;Texas DC
+11/05/2025;DOC305;Babbleblab;Firewall;6;2496;Voided;California Office
+11/12/2025;DOC306;Browsetype;Router;9;2601;Paid In Full;California Office
+14/10/2025;DOC307;Vimbo;Access Point;8;1304;Open;Remote
+18/03/2025;DOC308;Dynazzy;Cloud Subscription;20;3480;Voided;Remote
+13/11/2025;DOC309;Yambee;Cloud Subscription;7;1218;Open;Remote
+30/01/2025;DOC310;Topiclounge;Firewall;2;832;Paid In Full;New York Warehouse
+31/08/2025;DOC311;Kwideo;Router;2;578;Voided;New York Warehouse
+28/08/2025;DOC312;Jabbersphere;Cloud Subscription;3;522;Voided;Texas DC
+15/08/2025;DOC313;Thoughtbridge;Server License;19;8683;Paid In Full;California Office
+21/06/2025;DOC314;Lazzy;Switch;1;266;Open;California Office
+1/01/2025;DOC315;Omba;Firewall;2;832;Voided;New York Warehouse
+26/09/2025;DOC316;Yacero;Switch;2;532;Voided;California Office
+2/09/2025;DOC317;Centizu;Server License;16;7312;Voided;California Office
+13/11/2025;DOC318;Zoomdog;Access Point;4;652;Paid In Full;California Office
+10/06/2025;DOC319;Trilith;Firewall;10;4160;Paid In Full;Remote
+14/05/2025;DOC320;Gabspot;Switch;5;1330;Voided;New York Warehouse
+19/11/2025;DOC321;Dabfeed;Router;3;867;Open;California Office
+13/08/2025;DOC322;Meeveo;Router;4;1156;Voided;Texas DC
+3/07/2025;DOC323;Chatterpoint;Cloud Subscription;16;2784;Voided;New York Warehouse
+17/01/2025;DOC324;Trilia;Firewall;3;1248;Voided;Remote
+17/10/2025;DOC325;Gabtype;Server License;3;1371;Paid In Full;Remote
+2/12/2025;DOC326;Dabfeed;Firewall;8;3328;Paid In Full;Texas DC
+23/04/2025;DOC327;Zava;Switch;5;1330;Paid In Full;New York Warehouse
+13/04/2025;DOC328;Cogilith;Firewall;4;1664;Paid In Full;California Office
+22/11/2025;DOC329;Photobug;Server License;11;5027;Voided;Texas DC
+5/12/2025;DOC330;Lazz;Access Point;16;2608;Voided;New York Warehouse
+17/01/2025;DOC331;Skalith;Server License;13;5941;Open;Remote
+21/03/2025;DOC332;Avaveo;Router;12;3468;Voided;New York Warehouse
+8/12/2025;DOC333;Eazzy;Cloud Subscription;12;2088;Open;New York Warehouse
+7/01/2025;DOC334;Mydeo;Server License;16;7312;Open;Texas DC
+13/10/2025;DOC335;Trilith;Access Point;17;2771;Open;California Office
+9/07/2025;DOC336;Photofeed;Firewall;2;832;Open;California Office
+30/05/2025;DOC337;Dabshots;Firewall;18;7488;Voided;Remote
+3/02/2025;DOC338;Realfire;Server License;15;6855;Paid In Full;Texas DC
+27/02/2025;DOC339;Tagcat;Cloud Subscription;19;3306;Paid In Full;California Office
+27/02/2025;DOC340;Brainbox;Access Point;9;1467;Open;California Office
+14/06/2025;DOC341;Gabtune;Cloud Subscription;1;174;Paid In Full;Texas DC
+19/02/2025;DOC342;Npath;Switch;18;4788;Open;New York Warehouse
+16/05/2025;DOC343;Dabjam;Server License;8;3656;Paid In Full;Texas DC
+6/01/2025;DOC344;Photolist;Cloud Subscription;10;1740;Voided;Texas DC
+27/09/2025;DOC345;Jayo;Router;5;1445;Open;New York Warehouse
+26/08/2025;DOC346;Fivechat;Switch;12;3192;Open;Remote
+23/03/2025;DOC347;Brightdog;Server License;19;8683;Voided;Remote
+9/09/2025;DOC348;Roomm;Firewall;12;4992;Voided;Texas DC
+20/05/2025;DOC349;Yabox;Cloud Subscription;10;1740;Paid In Full;California Office
+9/06/2025;DOC350;Brainsphere;Server License;7;3199;Voided;Texas DC
+19/09/2025;DOC351;Aimbo;Cloud Subscription;2;348;Voided;New York Warehouse
+21/10/2025;DOC352;Riffpedia;Access Point;11;1793;Open;California Office
+26/02/2025;DOC353;Vinder;Firewall;14;5824;Paid In Full;New York Warehouse
+19/03/2025;DOC354;Browsecat;Access Point;20;3260;Voided;New York Warehouse
+6/11/2025;DOC355;Skibox;Switch;14;3724;Paid In Full;Remote
+19/03/2025;DOC356;Kare;Router;11;3179;Open;Remote
+20/08/2025;DOC357;Twimm;Switch;9;2394;Voided;Texas DC
+28/09/2025;DOC358;Blogtags;Router;8;2312;Voided;California Office
+18/11/2025;DOC359;Twitterlist;Cloud Subscription;18;3132;Paid In Full;California Office
+8/08/2025;DOC360;Youbridge;Switch;14;3724;Open;California Office
+26/04/2025;DOC361;Feednation;Server License;15;6855;Paid In Full;Texas DC
+8/05/2025;DOC362;Tagfeed;Firewall;18;7488;Voided;Remote
+10/11/2025;DOC363;Linkbuzz;Firewall;3;1248;Paid In Full;Remote
+20/03/2025;DOC364;Yadel;Cloud Subscription;10;1740;Voided;California Office
+7/09/2025;DOC365;Flashpoint;Server License;10;4570;Paid In Full;California Office
+8/12/2025;DOC366;Skinder;Cloud Subscription;20;3480;Voided;California Office
+26/10/2025;DOC367;Realfire;Firewall;17;7072;Paid In Full;New York Warehouse
+19/05/2025;DOC368;Realcube;Access Point;16;2608;Paid In Full;Remote
+28/02/2025;DOC369;Rhycero;Router;7;2023;Paid In Full;Texas DC
+17/06/2025;DOC370;Dabvine;Server License;12;5484;Voided;Remote
+12/12/2025;DOC371;Tagpad;Router;17;4913;Paid In Full;Remote
+23/06/2025;DOC372;Quinu;Firewall;13;5408;Voided;Texas DC
+22/06/2025;DOC373;Fiveclub;Router;17;4913;Paid In Full;Remote
+30/06/2025;DOC374;Eimbee;Router;3;867;Open;Remote
+11/10/2025;DOC375;Rhyloo;Access Point;18;2934;Open;Texas DC
+1/11/2025;DOC376;Realpoint;Cloud Subscription;2;348;Paid In Full;Texas DC
+30/10/2025;DOC377;Janyx;Firewall;17;7072;Paid In Full;New York Warehouse
+17/05/2025;DOC378;Dabfeed;Server License;9;4113;Paid In Full;California Office
+23/06/2025;DOC379;Oba;Firewall;11;4576;Paid In Full;California Office
+15/09/2025;DOC380;Voomm;Server License;2;914;Voided;Texas DC
+30/06/2025;DOC381;Voonte;Server License;8;3656;Voided;Texas DC
+31/05/2025;DOC382;Ooba;Cloud Subscription;18;3132;Voided;New York Warehouse
+26/07/2025;DOC383;Teklist;Firewall;2;832;Paid In Full;California Office
+16/02/2025;DOC384;Skipfire;Server License;17;7769;Open;Remote
+17/07/2025;DOC385;Yodo;Switch;15;3990;Paid In Full;Texas DC
+27/09/2025;DOC386;Yodo;Router;14;4046;Voided;Remote
+18/04/2025;DOC387;InnoZ;Access Point;1;163;Paid In Full;Remote
+15/11/2025;DOC388;Janyx;Router;9;2601;Open;California Office
+5/03/2025;DOC389;Zoovu;Access Point;15;2445;Voided;Remote
+31/03/2025;DOC390;Zazio;Switch;14;3724;Paid In Full;New York Warehouse
+13/04/2025;DOC391;Livefish;Access Point;15;2445;Paid In Full;Texas DC
+12/08/2025;DOC392;Jabberstorm;Access Point;4;652;Open;Remote
+21/05/2025;DOC393;Tazz;Router;1;289;Open;Texas DC
+2/01/2025;DOC394;Jabbercube;Server License;2;914;Open;California Office
+7/09/2025;DOC395;Edgeblab;Cloud Subscription;4;696;Voided;Remote
+27/02/2025;DOC396;Yata;Firewall;1;416;Open;Remote
+7/06/2025;DOC397;Edgepulse;Access Point;18;2934;Voided;California Office
+22/01/2025;DOC398;Mynte;Access Point;5;815;Paid In Full;California Office
+30/11/2025;DOC399;Omba;Firewall;8;3328;Open;Remote
+13/10/2025;DOC400;Photobug;Switch;20;5320;Paid In Full;Texas DC
+31/01/2025;DOC401;Wordware;Switch;6;1596;Open;New York Warehouse
+25/09/2025;DOC402;Jaxworks;Access Point;19;3097;Voided;Remote
+24/05/2025;DOC403;Bubblemix;Access Point;1;163;Voided;New York Warehouse
+19/04/2025;DOC404;Jaxbean;Server License;9;4113;Voided;Texas DC
+21/01/2025;DOC405;Mita;Firewall;9;3744;Open;Texas DC
+17/11/2025;DOC406;Plambee;Server License;11;5027;Paid In Full;Texas DC
+28/05/2025;DOC407;Gabspot;Firewall;12;4992;Paid In Full;Texas DC
+6/04/2025;DOC408;Einti;Access Point;11;1793;Paid In Full;New York Warehouse
+23/05/2025;DOC409;Youtags;Router;13;3757;Paid In Full;California Office
+20/05/2025;DOC410;Cogidoo;Cloud Subscription;9;1566;Open;Texas DC
+24/05/2025;DOC411;Quamba;Cloud Subscription;13;2262;Voided;Remote
+6/02/2025;DOC412;Mynte;Server License;1;457;Voided;Remote
+2/06/2025;DOC413;Babbleset;Switch;15;3990;Paid In Full;Remote
+29/03/2025;DOC414;Oodoo;Server License;3;1371;Voided;California Office
+30/05/2025;DOC415;Roombo;Server License;20;9140;Open;California Office
+8/06/2025;DOC416;Kwilith;Switch;13;3458;Voided;Remote
+7/10/2025;DOC417;Jaxnation;Router;14;4046;Paid In Full;New York Warehouse
+12/12/2025;DOC418;Skiptube;Server License;5;2285;Open;Texas DC
+8/12/2025;DOC419;Oyondu;Server License;3;1371;Voided;Remote
+27/10/2025;DOC420;Youbridge;Firewall;9;3744;Voided;Remote
+12/09/2025;DOC421;Browsezoom;Firewall;11;4576;Paid In Full;California Office
+15/11/2025;DOC422;Skimia;Access Point;20;3260;Voided;Remote
+26/11/2025;DOC423;Youspan;Access Point;16;2608;Voided;California Office
+3/02/2025;DOC424;Jazzy;Switch;20;5320;Paid In Full;California Office
+6/01/2025;DOC425;Meedoo;Router;10;2890;Voided;California Office
+27/11/2025;DOC426;Brainbox;Server License;8;3656;Voided;Texas DC
+23/01/2025;DOC427;Yodo;Server License;10;4570;Voided;New York Warehouse
+24/02/2025;DOC428;Reallinks;Switch;2;532;Paid In Full;Texas DC
+6/08/2025;DOC429;Ooba;Cloud Subscription;17;2958;Voided;California Office
+13/11/2025;DOC430;Oba;Server License;15;6855;Open;Remote
+7/11/2025;DOC431;Gigashots;Router;7;2023;Paid In Full;New York Warehouse
+21/06/2025;DOC432;Abatz;Switch;7;1862;Voided;Remote
+22/07/2025;DOC433;Buzzdog;Cloud Subscription;3;522;Voided;New York Warehouse
+16/02/2025;DOC434;Omba;Firewall;18;7488;Paid In Full;New York Warehouse
+27/11/2025;DOC435;Mymm;Router;7;2023;Paid In Full;California Office
+12/12/2025;DOC436;Vimbo;Server License;6;2742;Paid In Full;New York Warehouse
+31/03/2025;DOC437;Photojam;Access Point;16;2608;Paid In Full;New York Warehouse
+21/06/2025;DOC438;Cogidoo;Cloud Subscription;3;522;Voided;New York Warehouse
+20/02/2025;DOC439;Gabvine;Cloud Subscription;2;348;Paid In Full;New York Warehouse
+24/04/2025;DOC440;Realpoint;Firewall;4;1664;Open;Remote
+10/10/2025;DOC441;Wikido;Switch;15;3990;Paid In Full;New York Warehouse
+3/06/2025;DOC442;Livetube;Server License;5;2285;Paid In Full;Remote
+2/08/2025;DOC443;Kwideo;Access Point;16;2608;Paid In Full;California Office
+25/11/2025;DOC444;Youbridge;Cloud Subscription;4;696;Voided;California Office
+4/07/2025;DOC445;Flashpoint;Switch;11;2926;Voided;Texas DC
+1/05/2025;DOC446;Centizu;Firewall;10;4160;Voided;Texas DC
+5/12/2025;DOC447;Eimbee;Router;20;5780;Paid In Full;Remote
+16/05/2025;DOC448;Mymm;Switch;12;3192;Paid In Full;New York Warehouse
+21/01/2025;DOC449;Vinte;Firewall;11;4576;Voided;Texas DC
+25/07/2025;DOC450;Layo;Switch;3;798;Open;Remote
+9/08/2025;DOC451;Blogtags;Cloud Subscription;4;696;Paid In Full;California Office
+17/06/2025;DOC452;Jabbersphere;Cloud Subscription;7;1218;Voided;California Office
+31/05/2025;DOC453;Cogibox;Server License;2;914;Open;New York Warehouse
+22/03/2025;DOC454;Mycat;Server License;10;4570;Open;Remote
+17/05/2025;DOC455;Ailane;Switch;1;266;Paid In Full;California Office
+12/01/2025;DOC456;Browseblab;Access Point;1;163;Open;California Office
+27/08/2025;DOC457;Fivebridge;Router;3;867;Open;Remote
+7/04/2025;DOC458;Meetz;Firewall;18;7488;Voided;New York Warehouse
+24/10/2025;DOC459;Wordware;Server License;3;1371;Paid In Full;Remote
+24/04/2025;DOC460;Feedmix;Server License;2;914;Voided;Remote
+12/01/2025;DOC461;Gabcube;Cloud Subscription;14;2436;Voided;Texas DC
+20/05/2025;DOC462;Quatz;Server License;20;9140;Paid In Full;Remote
+11/01/2025;DOC463;Zoomlounge;Cloud Subscription;5;870;Open;California Office
+20/04/2025;DOC464;Mudo;Server License;16;7312;Paid In Full;Remote
+15/02/2025;DOC465;Blogpad;Router;16;4624;Open;New York Warehouse
+10/10/2025;DOC466;Eazzy;Cloud Subscription;9;1566;Paid In Full;Remote
+1/11/2025;DOC467;Dynabox;Cloud Subscription;16;2784;Open;Texas DC
+5/06/2025;DOC468;Thoughtworks;Cloud Subscription;9;1566;Paid In Full;New York Warehouse
+16/03/2025;DOC469;Voolith;Router;2;578;Paid In Full;Texas DC
+11/09/2025;DOC470;Edgeclub;Server License;6;2742;Open;Texas DC
+5/12/2025;DOC471;Eayo;Cloud Subscription;15;2610;Open;Remote
+10/09/2025;DOC472;Youspan;Firewall;11;4576;Voided;California Office
+15/03/2025;DOC473;Tazzy;Router;7;2023;Open;New York Warehouse
+17/01/2025;DOC474;Quinu;Server License;18;8226;Open;California Office
+6/07/2025;DOC475;Wikivu;Firewall;17;7072;Voided;Texas DC
+16/11/2025;DOC476;Fiveclub;Router;13;3757;Voided;New York Warehouse
+28/01/2025;DOC477;Realmix;Server License;18;8226;Voided;Remote
+10/01/2025;DOC478;Voonte;Firewall;13;5408;Open;California Office
+28/08/2025;DOC479;Kwinu;Switch;9;2394;Voided;California Office
+19/03/2025;DOC480;Devcast;Cloud Subscription;12;2088;Voided;Remote
+6/12/2025;DOC481;Plambee;Firewall;6;2496;Voided;California Office
+14/11/2025;DOC482;Divanoodle;Switch;11;2926;Voided;Remote
+28/07/2025;DOC483;Photofeed;Server License;3;1371;Voided;Texas DC
+4/07/2025;DOC484;Thoughtstorm;Server License;10;4570;Voided;Remote
+26/07/2025;DOC485;Brightbean;Server License;20;9140;Voided;Remote
+27/01/2025;DOC486;Fivechat;Cloud Subscription;18;3132;Voided;California Office
+8/11/2025;DOC487;Babbleset;Firewall;12;4992;Open;California Office
+12/01/2025;DOC488;Talane;Switch;20;5320;Open;Texas DC
+20/10/2025;DOC489;Yotz;Cloud Subscription;11;1914;Paid In Full;Remote
+15/05/2025;DOC490;Aibox;Access Point;19;3097;Open;Remote
+10/09/2025;DOC491;Rhyzio;Switch;5;1330;Paid In Full;Texas DC
+24/05/2025;DOC492;Oyope;Server License;8;3656;Open;Texas DC
+18/01/2025;DOC493;Meevee;Firewall;10;4160;Paid In Full;New York Warehouse
+28/06/2025;DOC494;Youbridge;Server License;20;9140;Voided;Texas DC
+3/03/2025;DOC495;Meedoo;Switch;14;3724;Voided;New York Warehouse
+16/02/2025;DOC496;Babblestorm;Router;20;5780;Open;New York Warehouse
+31/03/2025;DOC497;Rhyzio;Cloud Subscription;4;696;Paid In Full;New York Warehouse
+30/03/2025;DOC498;Aivee;Switch;6;1596;Paid In Full;Remote
+2/05/2025;DOC499;Kare;Cloud Subscription;10;1740;Open;New York Warehouse
+25/06/2025;DOC500;Divape;Server License;17;7769;Voided;Texas DC
+3/09/2025;DOC501;Fivebridge;Router;11;3179;Voided;California Office
+27/05/2025;DOC502;Mydo;Server License;8;3656;Voided;New York Warehouse
+13/10/2025;DOC503;Fiveclub;Access Point;14;2282;Open;Remote
+1/09/2025;DOC504;Tagtune;Cloud Subscription;6;1044;Paid In Full;New York Warehouse
+22/08/2025;DOC505;Devpoint;Cloud Subscription;15;2610;Open;California Office
+1/11/2025;DOC506;Gabspot;Access Point;15;2445;Open;California Office
+5/11/2025;DOC507;Ailane;Cloud Subscription;19;3306;Paid In Full;Remote
+18/09/2025;DOC508;Skyndu;Cloud Subscription;12;2088;Open;New York Warehouse
+30/10/2025;DOC509;Divape;Router;8;2312;Paid In Full;Texas DC
+1/02/2025;DOC510;Meezzy;Access Point;9;1467;Paid In Full;New York Warehouse
+24/02/2025;DOC511;Mudo;Switch;13;3458;Open;New York Warehouse
+17/03/2025;DOC512;Gabspot;Firewall;19;7904;Open;Remote
+3/01/2025;DOC513;Yambee;Cloud Subscription;13;2262;Open;Remote
+6/07/2025;DOC514;Shuffletag;Access Point;2;326;Open;California Office
+20/09/2025;DOC515;Flipstorm;Access Point;1;163;Open;California Office
+25/07/2025;DOC516;Yodoo;Access Point;4;652;Open;California Office
+27/09/2025;DOC517;Reallinks;Router;14;4046;Open;Remote
+28/02/2025;DOC518;Skiptube;Firewall;14;5824;Paid In Full;California Office
+28/08/2025;DOC519;Buzzbean;Server License;11;5027;Open;California Office
+2/10/2025;DOC520;Devify;Access Point;16;2608;Open;Texas DC
+8/02/2025;DOC521;Yombu;Firewall;7;2912;Open;Remote
+27/11/2025;DOC522;Thoughtmix;Switch;2;532;Open;Remote
+17/10/2025;DOC523;Skippad;Firewall;1;416;Open;New York Warehouse
+19/01/2025;DOC524;Thoughtsphere;Access Point;12;1956;Open;Remote
+7/04/2025;DOC525;Aimbu;Access Point;17;2771;Voided;Texas DC
+11/03/2025;DOC526;Aibox;Server License;2;914;Open;New York Warehouse
+22/01/2025;DOC527;Talane;Access Point;9;1467;Paid In Full;California Office
+5/01/2025;DOC528;Brightbean;Server License;19;8683;Open;Texas DC
+24/05/2025;DOC529;Yodoo;Access Point;15;2445;Paid In Full;New York Warehouse
+1/08/2025;DOC530;Abatz;Router;18;5202;Open;New York Warehouse
+24/03/2025;DOC531;Kanoodle;Router;18;5202;Paid In Full;Remote
+13/01/2025;DOC532;Ainyx;Router;12;3468;Voided;Remote
+15/12/2025;DOC533;Centizu;Cloud Subscription;2;348;Open;Remote
+26/02/2025;DOC534;Bubbletube;Router;14;4046;Paid In Full;New York Warehouse
+18/03/2025;DOC535;Eadel;Cloud Subscription;11;1914;Voided;Texas DC
+3/12/2025;DOC536;Tagchat;Router;15;4335;Paid In Full;New York Warehouse
+23/09/2025;DOC537;Roomm;Server License;7;3199;Paid In Full;New York Warehouse
+11/01/2025;DOC538;Ntags;Access Point;16;2608;Voided;Texas DC
+5/08/2025;DOC539;Demivee;Server License;20;9140;Paid In Full;Texas DC
+15/02/2025;DOC540;Chatterpoint;Firewall;17;7072;Paid In Full;Remote
+31/03/2025;DOC541;Photobug;Router;17;4913;Paid In Full;New York Warehouse
+10/08/2025;DOC542;Centimia;Firewall;16;6656;Voided;Remote
+5/03/2025;DOC543;Meeveo;Router;5;1445;Paid In Full;California Office
+15/04/2025;DOC544;Zava;Firewall;12;4992;Open;Remote
+4/07/2025;DOC545;Eadel;Server License;3;1371;Open;New York Warehouse
+20/11/2025;DOC546;Jabberstorm;Firewall;2;832;Paid In Full;California Office
+21/09/2025;DOC547;Youbridge;Switch;17;4522;Voided;California Office
+28/07/2025;DOC548;Quimba;Switch;9;2394;Voided;Texas DC
+11/04/2025;DOC549;Oyoba;Firewall;7;2912;Paid In Full;New York Warehouse
+29/07/2025;DOC550;Latz;Switch;15;3990;Voided;New York Warehouse
+14/10/2025;DOC551;Bubblebox;Server License;7;3199;Paid In Full;New York Warehouse
+7/04/2025;DOC552;Flipbug;Cloud Subscription;16;2784;Paid In Full;New York Warehouse
+17/09/2025;DOC553;Blogspan;Router;2;578;Paid In Full;California Office
+28/11/2025;DOC554;Voolia;Firewall;12;4992;Paid In Full;Texas DC
+4/10/2025;DOC555;Wordtune;Cloud Subscription;13;2262;Paid In Full;California Office
+31/07/2025;DOC556;Meejo;Server License;17;7769;Open;New York Warehouse
+3/08/2025;DOC557;Minyx;Router;11;3179;Voided;Texas DC
+15/04/2025;DOC558;Blogtag;Access Point;9;1467;Open;New York Warehouse
+23/03/2025;DOC559;Rhynyx;Server License;18;8226;Open;New York Warehouse
+4/08/2025;DOC560;Ozu;Access Point;20;3260;Open;New York Warehouse
+28/05/2025;DOC561;Voonyx;Server License;13;5941;Open;California Office
+15/08/2025;DOC562;Zooveo;Cloud Subscription;11;1914;Open;Remote
+16/06/2025;DOC563;Jabbersphere;Server License;12;5484;Paid In Full;New York Warehouse
+8/11/2025;DOC564;Zoomdog;Cloud Subscription;18;3132;Voided;New York Warehouse
+28/03/2025;DOC565;Photofeed;Router;11;3179;Paid In Full;Remote
+23/11/2025;DOC566;Flashdog;Access Point;4;652;Paid In Full;California Office
+6/03/2025;DOC567;Thoughtworks;Firewall;3;1248;Open;Texas DC
+30/03/2025;DOC568;Oyope;Firewall;14;5824;Open;New York Warehouse
+8/02/2025;DOC569;Jetpulse;Switch;10;2660;Paid In Full;Texas DC
+8/03/2025;DOC570;Skimia;Cloud Subscription;9;1566;Open;California Office
+4/03/2025;DOC571;Aimbu;Firewall;18;7488;Voided;Texas DC
+5/05/2025;DOC572;Buzzdog;Firewall;2;832;Paid In Full;New York Warehouse
+8/08/2025;DOC573;Geba;Firewall;5;2080;Open;Texas DC
+23/02/2025;DOC574;Ooba;Switch;6;1596;Open;Remote
+5/08/2025;DOC575;Topiclounge;Router;20;5780;Voided;Texas DC
+1/02/2025;DOC576;Fatz;Server License;10;4570;Open;New York Warehouse
+2/01/2025;DOC577;Thoughtbeat;Router;12;3468;Voided;New York Warehouse
+14/02/2025;DOC578;Zoomlounge;Access Point;9;1467;Voided;California Office
+13/02/2025;DOC579;Twiyo;Access Point;6;978;Open;Texas DC
+5/09/2025;DOC580;Jabbersphere;Access Point;16;2608;Open;Remote
+3/06/2025;DOC581;Vitz;Switch;7;1862;Voided;New York Warehouse
+26/04/2025;DOC582;Skinder;Switch;4;1064;Paid In Full;Texas DC
+12/07/2025;DOC583;Yozio;Switch;8;2128;Voided;Texas DC
+19/09/2025;DOC584;Oyope;Switch;19;5054;Open;California Office
+11/12/2025;DOC585;Kaymbo;Firewall;11;4576;Paid In Full;New York Warehouse
+7/06/2025;DOC586;Jabbersphere;Firewall;14;5824;Voided;California Office
+4/07/2025;DOC587;Oyoloo;Firewall;3;1248;Open;Texas DC
+21/09/2025;DOC588;Voonyx;Switch;20;5320;Voided;California Office
+4/03/2025;DOC589;Dabshots;Access Point;20;3260;Open;Remote
+3/07/2025;DOC590;Voomm;Firewall;20;8320;Open;California Office
+14/05/2025;DOC591;Blognation;Cloud Subscription;16;2784;Open;Remote
+9/12/2025;DOC592;LiveZ;Server License;2;914;Paid In Full;Texas DC
+29/05/2025;DOC593;Skilith;Firewall;19;7904;Voided;Texas DC
+17/11/2025;DOC594;Devshare;Cloud Subscription;2;348;Paid In Full;Remote
+24/11/2025;DOC595;Oyonder;Switch;15;3990;Paid In Full;New York Warehouse
+1/01/2025;DOC596;Skinte;Router;4;1156;Open;Texas DC
+21/11/2025;DOC597;Blognation;Router;14;4046;Voided;New York Warehouse
+5/07/2025;DOC598;Eimbee;Cloud Subscription;3;522;Open;California Office
+21/11/2025;DOC599;Feednation;Firewall;18;7488;Open;Texas DC
+28/07/2025;DOC600;Trupe;Server License;13;5941;Paid In Full;Texas DC
+29/09/2025;DOC601;Thoughtstorm;Access Point;17;2771;Paid In Full;California Office
+13/08/2025;DOC602;Meedoo;Cloud Subscription;18;3132;Voided;Texas DC
+15/02/2025;DOC603;Brainlounge;Server License;5;2285;Paid In Full;Texas DC
+19/03/2025;DOC604;Avaveo;Switch;19;5054;Open;Remote
+18/09/2025;DOC605;Yabox;Cloud Subscription;18;3132;Open;California Office
+29/10/2025;DOC606;Youfeed;Access Point;9;1467;Paid In Full;New York Warehouse
+19/02/2025;DOC607;Voonte;Router;10;2890;Voided;Texas DC
+20/07/2025;DOC608;Yodo;Router;16;4624;Paid In Full;California Office
+27/06/2025;DOC609;Browsecat;Server License;2;914;Paid In Full;California Office
+19/09/2025;DOC610;Demimbu;Cloud Subscription;15;2610;Open;Remote
+21/03/2025;DOC611;Mynte;Server License;20;9140;Paid In Full;Texas DC
+1/10/2025;DOC612;Centimia;Access Point;5;815;Paid In Full;Texas DC
+11/05/2025;DOC613;Gigazoom;Switch;9;2394;Voided;California Office
+23/10/2025;DOC614;Browseblab;Switch;4;1064;Voided;Texas DC
+28/03/2025;DOC615;Divanoodle;Cloud Subscription;2;348;Voided;Texas DC
+9/11/2025;DOC616;Dabfeed;Router;5;1445;Open;Remote
+11/09/2025;DOC617;Shuffledrive;Router;20;5780;Voided;Remote
+22/02/2025;DOC618;Buzzster;Server License;20;9140;Voided;New York Warehouse
+12/10/2025;DOC619;Skalith;Switch;2;532;Paid In Full;California Office
+4/06/2025;DOC620;Yabox;Access Point;1;163;Voided;California Office
+11/04/2025;DOC621;Aimbo;Cloud Subscription;13;2262;Open;New York Warehouse
+13/08/2025;DOC622;Devshare;Access Point;10;1630;Paid In Full;Texas DC
+26/07/2025;DOC623;Avaveo;Server License;9;4113;Voided;Texas DC
+16/05/2025;DOC624;Browsecat;Access Point;16;2608;Voided;Remote
+10/05/2025;DOC625;Thoughtstorm;Cloud Subscription;4;696;Open;Remote
+14/12/2025;DOC626;Bubbletube;Cloud Subscription;3;522;Paid In Full;Remote
+14/01/2025;DOC627;Rhyzio;Access Point;12;1956;Voided;New York Warehouse
+18/10/2025;DOC628;Kazio;Firewall;5;2080;Voided;Texas DC
+9/08/2025;DOC629;Muxo;Cloud Subscription;15;2610;Paid In Full;Texas DC
+17/05/2025;DOC630;Zoonder;Access Point;3;489;Voided;New York Warehouse
+31/03/2025;DOC631;Einti;Router;14;4046;Paid In Full;New York Warehouse
+24/02/2025;DOC632;Jabbertype;Router;13;3757;Voided;Texas DC
+7/07/2025;DOC633;Devshare;Router;16;4624;Paid In Full;Texas DC
+12/01/2025;DOC634;Skyvu;Server License;18;8226;Open;New York Warehouse
+14/01/2025;DOC635;Muxo;Router;9;2601;Voided;Texas DC
+23/02/2025;DOC636;Photolist;Switch;4;1064;Open;Remote
+15/08/2025;DOC637;Demimbu;Router;7;2023;Voided;Texas DC
+10/08/2025;DOC638;Oyonder;Server License;1;457;Open;New York Warehouse
+22/02/2025;DOC639;Jayo;Switch;1;266;Voided;New York Warehouse
+31/01/2025;DOC640;Edgeblab;Firewall;3;1248;Paid In Full;Remote
+2/10/2025;DOC641;Buzzbean;Cloud Subscription;15;2610;Voided;California Office
+5/11/2025;DOC642;Reallinks;Cloud Subscription;9;1566;Voided;Remote
+10/08/2025;DOC643;Oba;Router;8;2312;Paid In Full;California Office
+14/07/2025;DOC644;Fivebridge;Firewall;9;3744;Paid In Full;Remote
+30/05/2025;DOC645;Tagcat;Router;5;1445;Paid In Full;Remote
+28/08/2025;DOC646;Wikibox;Cloud Subscription;5;870;Voided;Texas DC
+1/12/2025;DOC647;Skipfire;Switch;15;3990;Voided;Remote
+1/08/2025;DOC648;Mynte;Switch;8;2128;Open;Texas DC
+7/07/2025;DOC649;Mynte;Cloud Subscription;4;696;Open;Remote
+19/04/2025;DOC650;Kazio;Access Point;14;2282;Open;Remote
+1/07/2025;DOC651;Centizu;Firewall;9;3744;Open;New York Warehouse
+21/06/2025;DOC652;Vidoo;Server License;2;914;Voided;Remote
+15/08/2025;DOC653;Blogpad;Cloud Subscription;3;522;Voided;New York Warehouse
+26/03/2025;DOC654;Jaloo;Firewall;2;832;Voided;California Office
+11/10/2025;DOC655;Reallinks;Switch;3;798;Voided;Remote
+1/09/2025;DOC656;Gabvine;Access Point;7;1141;Voided;California Office
+28/01/2025;DOC657;Kimia;Router;7;2023;Open;California Office
+28/08/2025;DOC658;Cogilith;Cloud Subscription;11;1914;Open;New York Warehouse
+21/08/2025;DOC659;Einti;Server License;12;5484;Paid In Full;New York Warehouse
+7/09/2025;DOC660;Devpoint;Server License;1;457;Voided;New York Warehouse
+29/07/2025;DOC661;Skalith;Cloud Subscription;3;522;Paid In Full;California Office
+26/09/2025;DOC662;Feednation;Server License;1;457;Paid In Full;Texas DC
+11/06/2025;DOC663;Youspan;Access Point;17;2771;Paid In Full;Remote
+30/04/2025;DOC664;Skinder;Server License;18;8226;Open;Remote
+13/04/2025;DOC665;Twinte;Access Point;7;1141;Open;New York Warehouse
+8/05/2025;DOC666;Kaymbo;Access Point;2;326;Open;Remote
+15/01/2025;DOC667;Brightdog;Router;15;4335;Open;Texas DC
+17/10/2025;DOC668;Eire;Firewall;8;3328;Paid In Full;California Office
+12/12/2025;DOC669;Oba;Router;3;867;Paid In Full;Remote
+10/03/2025;DOC670;Izio;Cloud Subscription;17;2958;Open;New York Warehouse
+17/02/2025;DOC671;Oozz;Cloud Subscription;6;1044;Paid In Full;Remote
+7/09/2025;DOC672;Ntags;Access Point;11;1793;Voided;Remote
+1/08/2025;DOC673;Bubblemix;Cloud Subscription;7;1218;Open;Texas DC
+10/03/2025;DOC674;Meevee;Firewall;1;416;Paid In Full;New York Warehouse
+14/01/2025;DOC675;Mudo;Cloud Subscription;15;2610;Paid In Full;California Office
+2/06/2025;DOC676;Quire;Firewall;15;6240;Paid In Full;Texas DC
+4/02/2025;DOC677;Mybuzz;Cloud Subscription;7;1218;Open;Texas DC
+7/09/2025;DOC678;Kazio;Cloud Subscription;2;348;Voided;California Office
+17/01/2025;DOC679;Podcat;Access Point;5;815;Open;New York Warehouse
+22/09/2025;DOC680;Kazu;Server License;15;6855;Open;California Office
+17/03/2025;DOC681;Bubbletube;Cloud Subscription;3;522;Paid In Full;Remote
+8/02/2025;DOC682;Rhybox;Switch;19;5054;Voided;Texas DC
+29/11/2025;DOC683;Skaboo;Router;20;5780;Voided;Texas DC
+13/05/2025;DOC684;Blognation;Cloud Subscription;13;2262;Paid In Full;Texas DC
+12/04/2025;DOC685;Eabox;Switch;8;2128;Open;California Office
+14/10/2025;DOC686;Buzzdog;Access Point;4;652;Paid In Full;New York Warehouse
+31/05/2025;DOC687;Abatz;Server License;6;2742;Paid In Full;California Office
+3/06/2025;DOC688;Skaboo;Access Point;19;3097;Open;Remote
+26/05/2025;DOC689;Roombo;Cloud Subscription;6;1044;Open;New York Warehouse
+12/10/2025;DOC690;Devcast;Access Point;2;326;Paid In Full;Texas DC
+9/01/2025;DOC691;Thoughtsphere;Router;17;4913;Paid In Full;California Office
+9/01/2025;DOC692;Jaxbean;Firewall;3;1248;Paid In Full;Remote
+23/05/2025;DOC693;Ainyx;Cloud Subscription;4;696;Paid In Full;New York Warehouse
+6/03/2025;DOC694;Camimbo;Server License;1;457;Open;California Office
+2/07/2025;DOC695;Topicshots;Access Point;15;2445;Open;Texas DC
+10/03/2025;DOC696;Devshare;Firewall;12;4992;Open;New York Warehouse
+21/10/2025;DOC697;Avamba;Server License;9;4113;Voided;Remote
+2/03/2025;DOC698;Yombu;Cloud Subscription;3;522;Voided;California Office
+16/03/2025;DOC699;Tagtune;Cloud Subscription;14;2436;Voided;California Office
+1/12/2025;DOC700;Ntag;Server License;12;5484;Voided;California Office
+29/10/2025;DOC701;Bubblemix;Cloud Subscription;19;3306;Voided;New York Warehouse
+5/09/2025;DOC702;Youfeed;Cloud Subscription;11;1914;Open;Remote
+7/10/2025;DOC703;Katz;Cloud Subscription;4;696;Voided;Texas DC
+29/11/2025;DOC704;Yoveo;Server License;5;2285;Voided;California Office
+24/09/2025;DOC705;Quire;Server License;5;2285;Voided;New York Warehouse
+13/11/2025;DOC706;Feedfish;Access Point;2;326;Open;Remote
+18/02/2025;DOC707;Jabberstorm;Cloud Subscription;18;3132;Voided;Texas DC
+30/05/2025;DOC708;Demizz;Switch;6;1596;Paid In Full;New York Warehouse
+29/09/2025;DOC709;Skiptube;Cloud Subscription;11;1914;Voided;Remote
+5/07/2025;DOC710;Wikido;Server License;16;7312;Paid In Full;New York Warehouse
+12/08/2025;DOC711;Topicstorm;Router;9;2601;Voided;Texas DC
+26/06/2025;DOC712;Cogidoo;Server License;2;914;Voided;California Office
+3/01/2025;DOC713;Digitube;Access Point;6;978;Paid In Full;Texas DC
+27/10/2025;DOC714;Rhynoodle;Router;19;5491;Open;Texas DC
+5/11/2025;DOC715;Wordware;Firewall;18;7488;Open;New York Warehouse
+21/03/2025;DOC716;Vimbo;Router;14;4046;Paid In Full;New York Warehouse
+13/12/2025;DOC717;Blogpad;Router;7;2023;Paid In Full;Texas DC
+17/02/2025;DOC718;Aivee;Cloud Subscription;10;1740;Voided;Remote
+23/06/2025;DOC719;Voomm;Switch;8;2128;Voided;California Office
+25/03/2025;DOC720;Brainsphere;Access Point;6;978;Open;Remote
+9/08/2025;DOC721;JumpXS;Access Point;16;2608;Open;California Office
+17/08/2025;DOC722;Omba;Server License;14;6398;Open;Remote
+7/10/2025;DOC723;Katz;Cloud Subscription;9;1566;Open;California Office
+22/10/2025;DOC724;Dabshots;Server License;7;3199;Open;New York Warehouse
+13/06/2025;DOC725;Feednation;Router;17;4913;Paid In Full;Remote
+6/05/2025;DOC726;Eayo;Server License;4;1828;Voided;New York Warehouse
+17/07/2025;DOC727;Babblestorm;Access Point;5;815;Voided;New York Warehouse
+15/12/2025;DOC728;Oozz;Cloud Subscription;19;3306;Voided;New York Warehouse
+3/06/2025;DOC729;Viva;Access Point;1;163;Voided;Texas DC
+26/01/2025;DOC730;Twinder;Cloud Subscription;6;1044;Open;Texas DC
+14/08/2025;DOC731;Tavu;Access Point;15;2445;Voided;New York Warehouse
+10/10/2025;DOC732;Trilia;Access Point;16;2608;Paid In Full;Remote
+30/08/2025;DOC733;Aimbu;Router;2;578;Paid In Full;New York Warehouse
+31/01/2025;DOC734;Plajo;Server License;14;6398;Open;Texas DC
+25/11/2025;DOC735;Topiclounge;Router;7;2023;Paid In Full;Remote
+11/01/2025;DOC736;Flashspan;Cloud Subscription;12;2088;Paid In Full;Texas DC
+5/06/2025;DOC737;Realbuzz;Switch;19;5054;Open;Remote
+15/01/2025;DOC738;Yozio;Server License;19;8683;Voided;Texas DC
+20/02/2025;DOC739;Skajo;Server License;5;2285;Paid In Full;California Office
+18/04/2025;DOC740;Oyoba;Server License;17;7769;Open;California Office
+5/04/2025;DOC741;Tekfly;Firewall;20;8320;Voided;New York Warehouse
+7/09/2025;DOC742;Trilia;Cloud Subscription;2;348;Paid In Full;New York Warehouse
+28/10/2025;DOC743;Bluejam;Firewall;14;5824;Open;Texas DC
+14/11/2025;DOC744;Oyoba;Router;14;4046;Open;New York Warehouse
+5/03/2025;DOC745;Vipe;Cloud Subscription;7;1218;Open;Texas DC
+31/08/2025;DOC746;Zazio;Server License;9;4113;Open;Texas DC
+5/12/2025;DOC747;BlogXS;Access Point;10;1630;Open;Remote
+7/12/2025;DOC748;Centimia;Server License;16;7312;Voided;Texas DC
+16/03/2025;DOC749;Babbleblab;Cloud Subscription;11;1914;Voided;New York Warehouse
+30/08/2025;DOC750;BlogXS;Server License;16;7312;Paid In Full;Remote
+17/07/2025;DOC751;Skivee;Firewall;19;7904;Paid In Full;California Office
+23/09/2025;DOC752;Rhynyx;Access Point;2;326;Paid In Full;California Office
+2/01/2025;DOC753;Mynte;Router;7;2023;Voided;California Office
+11/12/2025;DOC754;Babbleopia;Switch;4;1064;Open;New York Warehouse
+16/01/2025;DOC755;Meemm;Cloud Subscription;2;348;Voided;New York Warehouse
+15/06/2025;DOC756;Riffwire;Router;3;867;Paid In Full;Remote
+2/11/2025;DOC757;Rhyloo;Access Point;7;1141;Paid In Full;Texas DC
+29/08/2025;DOC758;Ooba;Router;12;3468;Paid In Full;Remote
+21/09/2025;DOC759;Babbleopia;Access Point;1;163;Open;New York Warehouse
+22/05/2025;DOC760;Babbleopia;Access Point;3;489;Paid In Full;Remote
+14/05/2025;DOC761;Ailane;Switch;2;532;Paid In Full;California Office
+17/06/2025;DOC762;Pixonyx;Switch;19;5054;Voided;Texas DC
+4/04/2025;DOC763;Innotype;Firewall;18;7488;Voided;California Office
+5/03/2025;DOC764;Feedfire;Router;13;3757;Paid In Full;New York Warehouse
+12/03/2025;DOC765;Pixoboo;Server License;8;3656;Voided;California Office
+25/03/2025;DOC766;Bubblebox;Switch;7;1862;Voided;California Office
+16/07/2025;DOC767;Aimbu;Server License;8;3656;Voided;New York Warehouse
+22/05/2025;DOC768;Skalith;Access Point;16;2608;Paid In Full;Remote
+7/06/2025;DOC769;Pixoboo;Cloud Subscription;4;696;Paid In Full;New York Warehouse
+1/06/2025;DOC770;Yakidoo;Firewall;14;5824;Paid In Full;California Office
+3/07/2025;DOC771;Npath;Router;13;3757;Voided;Remote
+26/05/2025;DOC772;Quimba;Server License;19;8683;Paid In Full;New York Warehouse
+12/05/2025;DOC773;Riffpath;Switch;3;798;Paid In Full;California Office
+17/05/2025;DOC774;Yozio;Server License;7;3199;Paid In Full;California Office
+5/01/2025;DOC775;Latz;Firewall;16;6656;Voided;New York Warehouse
+2/05/2025;DOC776;Zoonoodle;Server License;9;4113;Voided;Texas DC
+4/01/2025;DOC777;Agivu;Cloud Subscription;1;174;Voided;California Office
+24/11/2025;DOC778;Twitterwire;Firewall;6;2496;Voided;California Office
+1/05/2025;DOC779;Camido;Access Point;11;1793;Voided;New York Warehouse
+24/01/2025;DOC780;Photobean;Cloud Subscription;6;1044;Open;Texas DC
+9/07/2025;DOC781;Thoughtbridge;Switch;12;3192;Paid In Full;Texas DC
+30/09/2025;DOC782;Lajo;Switch;18;4788;Open;California Office
+4/04/2025;DOC783;Dynava;Switch;16;4256;Open;Texas DC
+1/12/2025;DOC784;Divavu;Server License;3;1371;Open;New York Warehouse
+9/01/2025;DOC785;Leexo;Switch;16;4256;Open;Texas DC
+12/07/2025;DOC786;Browsedrive;Firewall;16;6656;Paid In Full;Texas DC
+15/11/2025;DOC787;Yodo;Server License;6;2742;Voided;California Office
+23/04/2025;DOC788;Yodoo;Router;19;5491;Open;New York Warehouse
+7/09/2025;DOC789;Feedfish;Switch;10;2660;Open;New York Warehouse
+18/07/2025;DOC790;Wordpedia;Server License;19;8683;Open;Remote
+20/06/2025;DOC791;Yozio;Firewall;13;5408;Open;Texas DC
+8/08/2025;DOC792;Zoozzy;Router;14;4046;Open;New York Warehouse
+28/09/2025;DOC793;Teklist;Firewall;19;7904;Open;Remote
+3/05/2025;DOC794;Meeveo;Firewall;13;5408;Voided;California Office
+28/08/2025;DOC795;Miboo;Server License;1;457;Voided;New York Warehouse
+26/05/2025;DOC796;Devcast;Server License;8;3656;Paid In Full;Texas DC
+10/02/2025;DOC797;Flipbug;Access Point;3;489;Open;Texas DC
+6/03/2025;DOC798;Yambee;Firewall;6;2496;Voided;Texas DC
+5/12/2025;DOC799;Voolith;Access Point;5;815;Open;New York Warehouse
+9/09/2025;DOC800;Roombo;Router;11;3179;Open;Texas DC
+4/11/2025;DOC801;Thoughtstorm;Firewall;11;4576;Voided;Texas DC
+28/05/2025;DOC802;Blogspan;Server License;15;6855;Voided;Remote
+31/03/2025;DOC803;Tagchat;Router;8;2312;Voided;Remote
+12/12/2025;DOC804;Demizz;Cloud Subscription;18;3132;Paid In Full;California Office
+5/09/2025;DOC805;Photobean;Router;20;5780;Voided;California Office
+21/04/2025;DOC806;Gigashots;Access Point;6;978;Voided;California Office
+8/07/2025;DOC807;Devshare;Access Point;19;3097;Voided;Remote
+27/10/2025;DOC808;Jabberbean;Cloud Subscription;15;2610;Voided;Texas DC
+16/08/2025;DOC809;Demimbu;Router;15;4335;Open;Remote
+26/04/2025;DOC810;Livepath;Switch;1;266;Paid In Full;New York Warehouse
+15/04/2025;DOC811;Edgeify;Router;9;2601;Voided;New York Warehouse
+25/02/2025;DOC812;Bubblemix;Firewall;12;4992;Open;Remote
+24/11/2025;DOC813;Fanoodle;Cloud Subscription;16;2784;Voided;New York Warehouse
+1/08/2025;DOC814;Flashpoint;Cloud Subscription;9;1566;Voided;New York Warehouse
+9/08/2025;DOC815;InnoZ;Server License;6;2742;Paid In Full;New York Warehouse
+19/04/2025;DOC816;Twinder;Router;6;1734;Paid In Full;California Office
+10/08/2025;DOC817;Vinder;Switch;14;3724;Voided;New York Warehouse
+24/02/2025;DOC818;Mycat;Server License;19;8683;Open;Remote
+15/02/2025;DOC819;Bubblemix;Cloud Subscription;6;1044;Voided;Texas DC
+17/03/2025;DOC820;Gigazoom;Router;7;2023;Voided;New York Warehouse
+21/09/2025;DOC821;Tagcat;Server License;19;8683;Voided;Remote
+27/06/2025;DOC822;Flipstorm;Firewall;5;2080;Voided;Texas DC
+24/10/2025;DOC823;Tagchat;Router;17;4913;Paid In Full;California Office
+12/02/2025;DOC824;Youopia;Access Point;1;163;Open;Remote
+29/03/2025;DOC825;Skinte;Cloud Subscription;5;870;Voided;Texas DC
+8/04/2025;DOC826;Gevee;Router;3;867;Voided;Remote
+5/04/2025;DOC827;Buzzster;Router;6;1734;Open;New York Warehouse
+29/08/2025;DOC828;Centidel;Router;17;4913;Paid In Full;California Office
+26/06/2025;DOC829;Riffpath;Switch;3;798;Open;Texas DC
+25/07/2025;DOC830;Yata;Firewall;7;2912;Open;California Office
+14/11/2025;DOC831;Voolith;Access Point;5;815;Voided;California Office
+5/03/2025;DOC832;Trilia;Access Point;12;1956;Voided;Remote
+10/09/2025;DOC833;Photospace;Firewall;2;832;Paid In Full;Remote
+16/10/2025;DOC834;Camimbo;Router;7;2023;Voided;California Office
+2/01/2025;DOC835;Oyoyo;Router;5;1445;Voided;Remote
+23/02/2025;DOC836;Feednation;Router;14;4046;Voided;Remote
+21/08/2025;DOC837;Dynava;Firewall;18;7488;Paid In Full;New York Warehouse
+27/08/2025;DOC838;Eire;Firewall;20;8320;Voided;Remote
+6/01/2025;DOC839;Topdrive;Switch;18;4788;Voided;New York Warehouse
+11/04/2025;DOC840;Dazzlesphere;Firewall;11;4576;Open;Remote
+24/10/2025;DOC841;Izio;Firewall;18;7488;Voided;California Office
+5/08/2025;DOC842;JumpXS;Access Point;20;3260;Open;Texas DC
+23/10/2025;DOC843;Lazz;Router;10;2890;Paid In Full;Remote
+7/07/2025;DOC844;Yakitri;Switch;11;2926;Open;Texas DC
+5/04/2025;DOC845;Wordware;Access Point;9;1467;Open;Texas DC
+7/10/2025;DOC846;Miboo;Server License;1;457;Paid In Full;Texas DC
+22/10/2025;DOC847;Linklinks;Server License;10;4570;Voided;California Office
+29/08/2025;DOC848;Pixonyx;Access Point;12;1956;Voided;California Office
+13/03/2025;DOC849;Brainlounge;Access Point;10;1630;Paid In Full;California Office
+15/08/2025;DOC850;Skippad;Router;17;4913;Open;California Office
+8/12/2025;DOC851;Meemm;Switch;7;1862;Voided;New York Warehouse
+29/11/2025;DOC852;Skinte;Router;18;5202;Paid In Full;New York Warehouse
+12/11/2025;DOC853;Aimbo;Access Point;6;978;Open;New York Warehouse
+14/05/2025;DOC854;Edgeify;Server License;17;7769;Paid In Full;Texas DC
+20/08/2025;DOC855;Photojam;Firewall;6;2496;Paid In Full;California Office
+21/01/2025;DOC856;Zoombeat;Firewall;1;416;Paid In Full;California Office
+12/03/2025;DOC857;Jabbercube;Firewall;3;1248;Open;Remote
+22/11/2025;DOC858;Yozio;Access Point;15;2445;Open;Remote
+27/02/2025;DOC859;Skaboo;Cloud Subscription;2;348;Voided;New York Warehouse
+1/01/2025;DOC860;Skibox;Firewall;13;5408;Paid In Full;Remote
+12/04/2025;DOC861;Chatterbridge;Access Point;15;2445;Paid In Full;Texas DC
+19/10/2025;DOC862;Vinder;Firewall;16;6656;Open;Texas DC
+16/06/2025;DOC863;Photobean;Cloud Subscription;7;1218;Open;California Office
+15/12/2025;DOC864;Skivee;Switch;1;266;Voided;Texas DC
+31/03/2025;DOC865;Thoughtsphere;Server License;18;8226;Paid In Full;California Office
+9/07/2025;DOC866;Skidoo;Router;3;867;Paid In Full;Remote
+20/01/2025;DOC867;Yacero;Access Point;7;1141;Open;California Office
+1/03/2025;DOC868;Devbug;Firewall;3;1248;Paid In Full;Remote
+13/11/2025;DOC869;Viva;Cloud Subscription;5;870;Voided;New York Warehouse
+26/02/2025;DOC870;Mybuzz;Firewall;12;4992;Open;Remote
+24/09/2025;DOC871;Zoomzone;Cloud Subscription;16;2784;Open;California Office
+14/09/2025;DOC872;Yotz;Router;9;2601;Open;California Office
+22/01/2025;DOC873;Realcube;Access Point;2;326;Open;Texas DC
+17/10/2025;DOC874;Vimbo;Router;14;4046;Paid In Full;Texas DC
+28/06/2025;DOC875;Aimbo;Switch;2;532;Paid In Full;California Office
+26/11/2025;DOC876;Blogtag;Server License;15;6855;Open;New York Warehouse
+13/03/2025;DOC877;Lazz;Switch;17;4522;Voided;Remote
+11/01/2025;DOC878;Jaxbean;Access Point;14;2282;Open;New York Warehouse
+6/08/2025;DOC879;Zoomlounge;Router;13;3757;Open;California Office
+15/12/2025;DOC880;Jaloo;Router;11;3179;Open;Remote
+25/03/2025;DOC881;Blogpad;Switch;4;1064;Paid In Full;New York Warehouse
+6/12/2025;DOC882;Mydo;Firewall;10;4160;Voided;New York Warehouse
+12/11/2025;DOC883;Yabox;Firewall;5;2080;Open;California Office
+26/10/2025;DOC884;Minyx;Router;2;578;Voided;California Office
+9/02/2025;DOC885;Oozz;Server License;9;4113;Open;New York Warehouse
+29/10/2025;DOC886;Wikido;Cloud Subscription;3;522;Paid In Full;Remote
+13/07/2025;DOC887;Gabvine;Access Point;6;978;Voided;California Office
+26/03/2025;DOC888;LiveZ;Cloud Subscription;8;1392;Open;Remote
+16/03/2025;DOC889;Voomm;Switch;1;266;Paid In Full;California Office
+26/06/2025;DOC890;Jatri;Firewall;16;6656;Open;Texas DC
+24/04/2025;DOC891;Skaboo;Firewall;13;5408;Voided;New York Warehouse
+7/03/2025;DOC892;Flashdog;Cloud Subscription;15;2610;Paid In Full;Texas DC
+26/02/2025;DOC893;Yodel;Access Point;3;489;Open;California Office
+14/07/2025;DOC894;Riffwire;Firewall;11;4576;Paid In Full;Remote
+2/05/2025;DOC895;Photobug;Firewall;9;3744;Paid In Full;Texas DC
+9/06/2025;DOC896;Eamia;Server License;19;8683;Open;New York Warehouse
+24/10/2025;DOC897;Chatterbridge;Firewall;6;2496;Paid In Full;Texas DC
+21/01/2025;DOC898;Katz;Cloud Subscription;7;1218;Open;New York Warehouse
+18/01/2025;DOC899;Bubblebox;Firewall;5;2080;Paid In Full;California Office
+21/11/2025;DOC900;Feednation;Switch;9;2394;Voided;California Office
+26/11/2025;DOC901;Jazzy;Cloud Subscription;14;2436;Voided;Texas DC
+23/06/2025;DOC902;Innotype;Switch;14;3724;Paid In Full;New York Warehouse
+30/01/2025;DOC903;Mymm;Access Point;5;815;Voided;California Office
+26/01/2025;DOC904;Eamia;Firewall;3;1248;Voided;California Office
+27/09/2025;DOC905;Fiveclub;Firewall;11;4576;Paid In Full;California Office
+15/01/2025;DOC906;Feedfire;Switch;18;4788;Paid In Full;New York Warehouse
+29/08/2025;DOC907;Gevee;Firewall;1;416;Voided;California Office
+2/07/2025;DOC908;Aimbu;Firewall;3;1248;Voided;New York Warehouse
+12/08/2025;DOC909;Gabtune;Firewall;9;3744;Voided;New York Warehouse
+10/02/2025;DOC910;Latz;Router;5;1445;Voided;New York Warehouse
+24/05/2025;DOC911;Dynabox;Switch;12;3192;Paid In Full;Texas DC
+20/01/2025;DOC912;Quaxo;Firewall;11;4576;Open;New York Warehouse
+10/11/2025;DOC913;Topicblab;Switch;4;1064;Open;California Office
+10/02/2025;DOC914;Pixonyx;Server License;12;5484;Voided;Texas DC
+16/07/2025;DOC915;Blogtags;Firewall;10;4160;Paid In Full;Remote
+22/05/2025;DOC916;Vipe;Access Point;2;326;Paid In Full;Remote
+28/06/2025;DOC917;Flashset;Access Point;11;1793;Paid In Full;Texas DC
+7/02/2025;DOC918;Trilia;Server License;16;7312;Paid In Full;New York Warehouse
+14/08/2025;DOC919;Edgeblab;Server License;7;3199;Open;Texas DC
+21/02/2025;DOC920;Photojam;Switch;19;5054;Paid In Full;Remote
+6/04/2025;DOC921;Quire;Router;9;2601;Voided;California Office
+15/05/2025;DOC922;Babblestorm;Server License;3;1371;Paid In Full;Remote
+19/02/2025;DOC923;Oba;Server License;20;9140;Open;New York Warehouse
+29/09/2025;DOC924;Trudeo;Switch;1;266;Open;Texas DC
+1/10/2025;DOC925;Bubbletube;Switch;9;2394;Paid In Full;California Office
+4/06/2025;DOC926;Gigabox;Access Point;3;489;Paid In Full;Texas DC
+16/10/2025;DOC927;Jetwire;Access Point;6;978;Paid In Full;Remote
+5/07/2025;DOC928;Yakijo;Firewall;1;416;Open;Texas DC
+27/01/2025;DOC929;Dabvine;Access Point;14;2282;Open;Remote
+15/08/2025;DOC930;Wordpedia;Switch;13;3458;Open;Remote
+11/01/2025;DOC931;Yata;Firewall;13;5408;Open;California Office
+2/12/2025;DOC932;Oodoo;Firewall;2;832;Paid In Full;New York Warehouse
+8/11/2025;DOC933;Topicblab;Access Point;6;978;Paid In Full;New York Warehouse
+3/07/2025;DOC934;Tagchat;Firewall;13;5408;Voided;California Office
+23/07/2025;DOC935;Edgeblab;Firewall;3;1248;Paid In Full;New York Warehouse
+9/07/2025;DOC936;Viva;Server License;9;4113;Voided;Remote
+5/12/2025;DOC937;Devpulse;Router;9;2601;Open;California Office
+8/06/2025;DOC938;Camimbo;Server License;17;7769;Paid In Full;New York Warehouse
+13/02/2025;DOC939;Topdrive;Access Point;13;2119;Paid In Full;Texas DC
+2/11/2025;DOC940;Skippad;Server License;5;2285;Paid In Full;Texas DC
+19/02/2025;DOC941;Shufflester;Firewall;16;6656;Open;Remote
+28/11/2025;DOC942;Photobean;Access Point;7;1141;Voided;Texas DC
+24/03/2025;DOC943;Yombu;Server License;20;9140;Voided;New York Warehouse
+2/06/2025;DOC944;BlogXS;Firewall;17;7072;Voided;Texas DC
+28/07/2025;DOC945;Gigazoom;Firewall;4;1664;Voided;Texas DC
+27/04/2025;DOC946;Rhynyx;Cloud Subscription;9;1566;Voided;Remote
+16/02/2025;DOC947;Realcube;Router;17;4913;Open;California Office
+12/01/2025;DOC948;Voonyx;Router;18;5202;Open;Remote
+12/01/2025;DOC949;Gigaclub;Switch;2;532;Paid In Full;California Office
+14/01/2025;DOC950;Kwimbee;Server License;18;8226;Paid In Full;New York Warehouse
+30/10/2025;DOC951;Yozio;Cloud Subscription;10;1740;Paid In Full;California Office
+25/09/2025;DOC952;Rhyloo;Switch;18;4788;Paid In Full;California Office
+17/02/2025;DOC953;Jabbersphere;Server License;10;4570;Open;Texas DC
+22/10/2025;DOC954;Jabbersphere;Server License;6;2742;Voided;Texas DC
+19/01/2025;DOC955;Shufflester;Firewall;14;5824;Voided;New York Warehouse
+14/01/2025;DOC956;Yotz;Switch;10;2660;Paid In Full;Texas DC
+5/12/2025;DOC957;Realpoint;Cloud Subscription;5;870;Open;California Office
+10/03/2025;DOC958;Centidel;Cloud Subscription;11;1914;Voided;New York Warehouse
+18/03/2025;DOC959;Skilith;Cloud Subscription;12;2088;Voided;California Office
+7/04/2025;DOC960;Edgeclub;Firewall;10;4160;Paid In Full;California Office
+11/07/2025;DOC961;Blogtag;Cloud Subscription;15;2610;Open;New York Warehouse
+12/09/2025;DOC962;Quaxo;Server License;13;5941;Paid In Full;New York Warehouse
+13/10/2025;DOC963;Voonyx;Cloud Subscription;11;1914;Open;Remote
+21/04/2025;DOC964;Jabbersphere;Firewall;2;832;Open;Texas DC
+22/10/2025;DOC965;Talane;Firewall;14;5824;Paid In Full;Texas DC
+8/03/2025;DOC966;Skinder;Router;13;3757;Voided;New York Warehouse
+1/05/2025;DOC967;Buzzdog;Cloud Subscription;5;870;Paid In Full;Remote
+4/08/2025;DOC968;Babbleopia;Router;16;4624;Open;Remote
+14/02/2025;DOC969;Babbleopia;Switch;19;5054;Voided;Texas DC
+9/06/2025;DOC970;Skibox;Switch;20;5320;Voided;New York Warehouse
+24/02/2025;DOC971;Jaxworks;Switch;2;532;Voided;Remote
+24/01/2025;DOC972;Mynte;Access Point;10;1630;Voided;Texas DC
+18/01/2025;DOC973;Yodoo;Router;17;4913;Voided;California Office
+6/01/2025;DOC974;Trupe;Router;14;4046;Open;New York Warehouse
+13/07/2025;DOC975;Rhyloo;Firewall;10;4160;Paid In Full;Remote
+21/04/2025;DOC976;Demimbu;Cloud Subscription;15;2610;Voided;California Office
+8/04/2025;DOC977;Babbleblab;Cloud Subscription;4;696;Open;New York Warehouse
+29/04/2025;DOC978;Jamia;Access Point;13;2119;Paid In Full;New York Warehouse
+14/06/2025;DOC979;Vitz;Server License;5;2285;Open;New York Warehouse
+20/08/2025;DOC980;Quatz;Access Point;1;163;Paid In Full;California Office
+6/04/2025;DOC981;Oyoloo;Switch;1;266;Voided;California Office
+17/07/2025;DOC982;Tagpad;Switch;14;3724;Voided;Texas DC
+11/04/2025;DOC983;Wikizz;Firewall;17;7072;Paid In Full;Texas DC
+10/02/2025;DOC984;Edgetag;Access Point;9;1467;Paid In Full;California Office
+23/06/2025;DOC985;Vipe;Server License;18;8226;Voided;Texas DC
+21/08/2025;DOC986;Edgewire;Switch;8;2128;Paid In Full;New York Warehouse
+5/10/2025;DOC987;Tagcat;Access Point;1;163;Open;California Office
+14/10/2025;DOC988;Mymm;Firewall;10;4160;Paid In Full;Texas DC
+9/01/2025;DOC989;Aimbu;Firewall;11;4576;Paid In Full;New York Warehouse
+28/10/2025;DOC990;Chatterbridge;Server License;10;4570;Open;Remote
+8/05/2025;DOC991;Fatz;Server License;20;9140;Voided;California Office
+20/07/2025;DOC992;Tagpad;Access Point;9;1467;Open;Texas DC
+19/06/2025;DOC993;Browsetype;Server License;7;3199;Voided;Remote
+26/11/2025;DOC994;Edgeblab;Cloud Subscription;11;1914;Paid In Full;Texas DC
+1/01/2025;DOC995;Avavee;Switch;2;532;Paid In Full;California Office
+8/04/2025;DOC996;Cogilith;Cloud Subscription;2;348;Voided;Remote
+8/02/2025;DOC997;Yabox;Router;15;4335;Paid In Full;New York Warehouse
+18/10/2025;DOC998;Janyx;Access Point;19;3097;Paid In Full;California Office
+17/08/2025;DOC999;Podcat;Server License;3;1371;Open;New York Warehouse
+6/03/2025;DOC1000;Jaxworks;Switch;12;3192;Paid In Full;Remote
