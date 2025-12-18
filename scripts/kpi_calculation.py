@@ -55,10 +55,26 @@ revenue_by_category = (
     .sort_values(by="amount", ascending=False)
 )
 
+item_sales = transactions.groupby("item_name").agg(
+    total_revenue=("amount", "sum"),
+    total_quantity=("quantity", "sum")
+).reset_index()
+
+item_sales = item_sales.merge(
+    inventory[["item_name", "base_price"]],
+    on="item_name",
+    how="left"
+)
+
+item_sales["total_cost"] = item_sales["base_price"] * item_sales["total_quantity"]
+item_sales["gross_margin"] = (
+    (item_sales["total_revenue"] - item_sales["total_cost"]) / item_sales["total_revenue"]
+)
+
 # save KPIs
 monthly_revenue.to_csv("outputs/kpis/kpi_monthly_revenue.csv", index=False)
 revenue_by_customer.to_csv("outputs/kpis/kpi_revenue_by_customer.csv", index=False)
 revenue_by_item.to_csv("outputs/kpis/kpi_revenue_by_item.csv", index=False)
 atv_df.to_csv("outputs/kpis/kpi_average_transaction_value.csv", index=False)
-inventory_prices.to_csv("outputs/kpis/kpi_inventory_base_prices.csv", index=False)
 revenue_by_category.to_csv("outputs/kpis/kpi_revenue_by_customer_category.csv", index=False)
+item_sales.to_csv("outputs/kpis/kpi_item_gross_margin.csv", index=False)

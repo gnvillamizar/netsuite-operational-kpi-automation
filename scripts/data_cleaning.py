@@ -40,7 +40,7 @@ customers["sales_rep"] = customers["sales_rep"].astype(str)
 
 inventory = inventory.rename(columns={
     "ID interno": "item_id",
-    "Nombre para mostrar": "item_name",
+    "Nombre": "item_name",
     "Subtipo": "item_type",
     "Precio base": "base_price"
 })
